@@ -6,6 +6,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 ## Paper List
 
+### Automatic Speech Recognition
 - **An Introduction to the Application of the Theory of Probabilistic Functions of a Markov Process to Automatic Speech Recognition**(1982), S. E. LEVINSON et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6768244)
 
 - **A Maximum Likelihood Approach to Continuous Speech Recognition**(1983), LALIT R. BAHL et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4767370&tag=1)
@@ -15,6 +16,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Maximum Mutual Information Estimation of Hidden Markov Model Parameters for Speech Recognition**(1986), Lalit R. Bahi et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1169179)
 
 - **Hidden Markov Models for Speech Recognition**(1991), B. H. Juang et al. [[pdf]](http://www.jstor.org/stable/1268779)
+
+- **A post-processing system to yield reduced word error rates: Recognizer Output Voting Error Reduction (ROVER)**(1997), J.G. Fiscus. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=659110)
 
 - **Framewise phoneme classification with bidirectional LSTM and other neural network architectures**(2005), Alex Graves et al. [[pdf]](https://pdfs.semanticscholar.org/83d6/1d9b71a838aa150d7ef232dc6d4c73e24250.pdf?\_ga=1.187838062.730356906.1493526584)
 
@@ -96,6 +99,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Latent Sequence Decompositions**(2016), William Chan et al. [[pdf]](https://arxiv.org/pdf/1610.03035.pdf)
 
+- **Modeling Time-Frequency Patterns with LSTM vs. Convolutional Architectures for LVCSR Tasks**(2016), Tara N. Sainath et al. [[pdf]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45401.pdf)
+
 - **Segmental Recurrent Neural Networks for End-to-End Speech Recognition**(2016), Liang Lu et al. [[pdf]](https://pdfs.semanticscholar.org/8477/ec32bc1dde071bed8174348da5cd6740dab0.pdf?\_ga=1.220546782.730356906.1493526584)
 
 - **Towards better decoding and language model integration in sequence to sequence models**(2016), Jan Chorowski et al. [[pdf]](https://arxiv.org/pdf/1612.02695.pdf)
@@ -126,6 +131,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Deep LSTM for Large Vocabulary Continuous Speech Recognition**(2017), Xu Tian et al. [[pdf]](https://arxiv.org/pdf/1703.07090.pdf)
 
+- **Gram-CTC: Automatic Unit Selection and Target Decomposition for Sequence Labelling**(2017), Hairong Liu et al. [[pdf]](https://arxiv.org/pdf/1703.00096.pdf)
+
 - **Multichannel End-to-end Speech Recognition**(2017), Tsubasa Ochiai et al. [[pdf]](https://arxiv.org/pdf/1703.04783.pdf)
 
 - **Multi-task Learning with CTC and Segmental CRF for Speech Recognition**(2017), Liang Lu et al. [[pdf]](https://arxiv.org/pdf/1702.06378.pdf)
@@ -133,4 +140,13 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Multichannel Signal Processing With Deep Neural Networks for Automatic Speech Recognition**(2017), Tara N. Sainath et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7859320)
 
 - **Residual Convolutional CTC Networks for Automatic Speech Recognition**(2017), Yisen Wang et al. [[pdf]](https://arxiv.org/pdf/1702.07793.pdf)
+
+- **Residual LSTM: Design of a Deep Recurrent Architecture for Distant Speech Recognition**(2017), Jaeyoung Kim et al. [[pdf]](https://arxiv.org/pdf/1701.03360.pdf)
+
+### Speech Synthesis
+- **Deep Voice: Real-time Neural Text-to-Speech**(2017), Sercan O. Arik et al. [[pdf]](https://arxiv.org/pdf/1702.07825.pdf)
+
+- **WaveNet: A Generative Model for Raw Audio**(2016), Aäron van den Oord et al. [[pdf]](https://arxiv.org/pdf/1609.03499.pdf)
+
+### Language Modelling
 
