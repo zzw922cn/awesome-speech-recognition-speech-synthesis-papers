@@ -128,7 +128,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Multichannel End-to-end Speech Recognition**(2017), Tsubasa Ochiai et al. [[pdf]](https://arxiv.org/pdf/1703.04783.pdf)
 
-- **Multi-task Learning with CTC and Segmental CRF for Speech Recognition**(2017), Liang Lu et al. [[pdf]](https://arxiv.org/pdf/1702.06378.pdf
+- **Multi-task Learning with CTC and Segmental CRF for Speech Recognition**(2017), Liang Lu et al. [[pdf]](https://arxiv.org/pdf/1702.06378.pdf)
 
 - **Multichannel Signal Processing With Deep Neural Networks for Automatic Speech Recognition**(2017), Tara N. Sainath et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7859320)
 
