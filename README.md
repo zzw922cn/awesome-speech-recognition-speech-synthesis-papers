@@ -80,7 +80,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **End-to-end attention-based large vocabulary speech recognition**(2016), Dzmitry Bahdanau et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7472618)
 
-- **Deep Convolutional Neural Networks with Layer-Wise Context Expansion and Attention**, Dong Yu et al. [[pdf]](https://pdfs.semanticscholar.org/8926/fa45d9fc76523766a9d65e2c3b4a9c3feb88.pdf?\_ga=1.37888869.730356906.1493526584)
+- **Deep Convolutional Neural Networks with Layer-Wise Context Expansion and Attention**(2016), Dong Yu et al. [[pdf]](https://pdfs.semanticscholar.org/8926/fa45d9fc76523766a9d65e2c3b4a9c3feb88.pdf?\_ga=1.37888869.730356906.1493526584)
 
 - **Deep Speech 2: End-to-End Speech Recognition in English and Mandarin**(2016), Dario Amodei et al. [[pdf]](https://pdfs.semanticscholar.org/c2ba/9d550bbfb542e9fdd6e817e9be15585d0f47.pdf?\_ga=1.248137409.730356906.1493526584)
 
