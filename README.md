@@ -21,9 +21,9 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Framewise phoneme classification with bidirectional LSTM and other neural network architectures**(2005), Alex Graves et al. [[pdf]](https://pdfs.semanticscholar.org/83d6/1d9b71a838aa150d7ef232dc6d4c73e24250.pdf?\_ga=1.187838062.730356906.1493526584)
 
-- **Applying Convolutional Neural Networks concepts to hybrid NN-HMM model for speech recognition**(2012), Ossama Abdel-Hamid et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6288864)
-
 - **Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks**(2006), Alex Graves et al. [[pdf]](https://pdfs.semanticscholar.org/daed/0db4538e1a83b4680545b44e3083843168e7.pdf?\_ga=1.45211874.730356906.1493526584)
+
+- **Applying Convolutional Neural Networks concepts to hybrid NN-HMM model for speech recognition**(2012), Ossama Abdel-Hamid et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6288864)
 
 - **Context-Dependent Pre-Trained Deep Neural Networks for Large-Vocabulary Speech Recognition**(2012), George E. Dahl et al. [[pdf]](http://ieeexplore.ieee.org/document/5740583/?part=1)
 
