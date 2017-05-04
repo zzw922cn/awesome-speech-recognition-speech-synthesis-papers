@@ -160,4 +160,4 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 ## Contact Me
 If my repo is helpful to you, please give me a **star and fork** to encourage me to keep updating. Thank you.
 
-For any questions, welcome to send email to :**zzw922cn@gmail.com**. If you use wechat, you can follow me by searching wechat public media id:**deeplearningdigest**, I would push several articles every week to share my deep learning practices with you. Thanks!
+For any questions, welcome to send email to :**zzw922cn@gmail.com**. Thanks!
