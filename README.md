@@ -15,6 +15,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Maximum Mutual Information Estimation of Hidden Markov Model Parameters for Speech Recognition**(1986), Lalit R. Bahi et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1169179)
 
+- **A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition**(1989), Lawrence R Rabiner. [[pdf]](https://pdfs.semanticscholar.org/fb04/6159dfb4a2beb95756fe1116056a6d922565.pdf?_ga=2.37020706.362861000.1494045851-921183529.1494045851)
+
 - **Speaker-independent phone recognition using hidden Markov models**(1989), Kai-Fu Lee et al. [[pdf]](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2768&context=compsci)
 
 - **Hidden Markov Models for Speech Recognition**(1991), B. H. Juang et al. [[pdf]](http://www.jstor.org/stable/1268779)
@@ -82,8 +84,6 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Deep Neural Networks for Single-Channel Multi-Talker Speech Recognition**(2015), Chao Weng et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7122291)
 
 - **Fast and Accurate Recurrent Neural Network Acoustic Models for Speech Recognition**(2015), Hasim Sak et al. [[pdf]](https://pdfs.semanticscholar.org/9fca/2af9a0e3f2c5c3ed47abb3ebd21b7265ac2b.pdf?\_ga=1.222094174.730356906.1493526584)
-
-- **Listen, Attend and Spell**(2015), William Chan et al. [[pdf]](https://arxiv.org/pdf/1508.01211.pdf)
 
 - **Online Sequence Training of Recurrent Neural Networks with Connectionist Temporal Classification**(2015), Kyuyeon Hwang et al. [[pdf]](https://arxiv.org/pdf/1511.06841.pdf)
 
