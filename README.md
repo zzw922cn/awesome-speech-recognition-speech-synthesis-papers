@@ -85,6 +85,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Fast and Accurate Recurrent Neural Network Acoustic Models for Speech Recognition**(2015), Hasim Sak et al. [[pdf]](https://pdfs.semanticscholar.org/9fca/2af9a0e3f2c5c3ed47abb3ebd21b7265ac2b.pdf?\_ga=1.222094174.730356906.1493526584)
 
+- **Lexicon-Free Conversational Speech Recognition with Neural Networks**(2015), Andrew L. Maas et al. [[pdf]](https://pdfs.semanticscholar.org/55ee/875b9039febd378a3f8ac4e3d7603f83d57c.pdf?\_ga=2.128588684.1093285980.1494121465-1276580355.1494121465)
+
 - **Online Sequence Training of Recurrent Neural Networks with Connectionist Temporal Classification**(2015), Kyuyeon Hwang et al. [[pdf]](https://arxiv.org/pdf/1511.06841.pdf)
 
 - **Advances in All-Neural Speech Recognition**(2016), Geoffrey Zweig et al. [[pdf]](https://arxiv.org/pdf/1609.05935.pdf)
