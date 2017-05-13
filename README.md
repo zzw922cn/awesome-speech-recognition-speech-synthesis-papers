@@ -15,7 +15,9 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Maximum Mutual Information Estimation of Hidden Markov Model Parameters for Speech Recognition**(1986), Lalit R. Bahi et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1169179)
 
-- **A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition**(1989), Lawrence R Rabiner. [[pdf]](https://pdfs.semanticscholar.org/fb04/6159dfb4a2beb95756fe1116056a6d922565.pdf?_ga=2.37020706.362861000.1494045851-921183529.1494045851)
+- **A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition**(1989), Lawrence R Rabiner. [[pdf]](https://pdfs.semanticscholar.org/fb04/6159dfb4a2beb95756fe1116056a6d922565.pdf?\_ga=2.37020706.362861000.1494045851-921183529.1494045851)
+
+- **Phoneme recognition using time-delay neural networks**(1989), Alexander H. Waibel et al. [[pdf]](https://pdfs.semanticscholar.org/b554/da42487697cb0d01a4146858e966c1d2404f.pdf?\_ga=2.97032540.235965811.1494658719-1308334183.1494658711)
 
 - **Speaker-independent phone recognition using hidden Markov models**(1989), Kai-Fu Lee et al. [[pdf]](http://repository.cmu.edu/cgi/viewcontent.cgi?article=2768&context=compsci)
 
@@ -24,6 +26,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Connectionist Speech Recognition: A Hybrid Approach**(1994), Herve Bourlard et al. [[pdf]](https://www.researchgate.net/profile/Herve\_Bourlard/publication/230875873\_Connectionist\_Speech\_Recognition\_A\_Hybrid\_Approach/links/0deec5149eb889b8c7000000/Connectionist-Speech-Recognition-A-Hybrid-Approach.pdf)
 
 - **A post-processing system to yield reduced word error rates: Recognizer Output Voting Error Reduction (ROVER)**(1997), J.G. Fiscus. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=659110)
+
+- **Review of Tdnn (time Delay Neural Network) Architectures for Speech Recognition**(2014), Masahide Sugiyamat et al. [[pdf]](https://pdfs.semanticscholar.org/073b/6128f04fe4b88b88ae297615af289c308753.pdf?\_ga=2.103860032.1725061846.1494658711-1308334183.1494658711)
 
 - **Framewise phoneme classification with bidirectional LSTM and other neural network architectures**(2005), Alex Graves et al. [[pdf]](https://pdfs.semanticscholar.org/83d6/1d9b71a838aa150d7ef232dc6d4c73e24250.pdf?\_ga=1.187838062.730356906.1493526584)
 
@@ -109,6 +113,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Modeling Time-Frequency Patterns with LSTM vs. Convolutional Architectures for LVCSR Tasks**(2016), Tara N. Sainath et al. [[pdf]](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45401.pdf)
 
+- **Recurrent Models for Auditory Attention in Multi-Microphone Distance Speech Recognition**(2016), Suyoun Kim et al. [[pdf]](https://pdfs.semanticscholar.org/b9fc/cd8bee6e6998b87b4efc671dbcee45917282.pdf?\_ga=2.168507874.235965811.1494658719-1308334183.1494658711)
+
 - **Segmental Recurrent Neural Networks for End-to-End Speech Recognition**(2016), Liang Lu et al. [[pdf]](https://pdfs.semanticscholar.org/8477/ec32bc1dde071bed8174348da5cd6740dab0.pdf?\_ga=1.220546782.730356906.1493526584)
 
 - **Towards better decoding and language model integration in sequence to sequence models**(2016), Jan Chorowski et al. [[pdf]](https://arxiv.org/pdf/1612.02695.pdf)
@@ -155,9 +161,22 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 
 ### Speech Synthesis
-- **Deep Voice: Real-time Neural Text-to-Speech**(2017), Sercan O. Arik et al. [[pdf]](https://arxiv.org/pdf/1702.07825.pdf)
+
+- **Signal estimation from modified short-time Fourier transform**(1993), Daniel W. Griffin et al. [[pdf]](https://pdfs.semanticscholar.org/ade8/d1511a61d78948bb0d43e207593389935421.pdf?\_ga=2.229355228.1725061846.1494658711-1308334183.1494658711)
+
+- **A fast Griffin-Lim algorithm**(2013), Nathanael Perraudin et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6701851)
+
+- **First Step Towards End-to-End Parametric TTS Synthesis: Generating Spectral Parameters with Neural Attention**(2016), Wenfu Wang et al. [[pdf]](http://doi.org/10.21437/Interspeech.2016-134)
+
+- **Recent Advances in Google Real-Time HMM-Driven Unit Selection Synthesizer**(2016), Xavi Gonzalvo et al. [[pdf]](http://doi.org/10.21437/Interspeech.2016-264)
+
+- **SampleRNN: An Unconditional End-to-End Neural Audio Generation Model**(2016), Soroush Mehri et al. [[pdf]](https://arxiv.org/pdf/1612.07837.pdf)
 
 - **WaveNet: A Generative Model for Raw Audio**(2016), Aäron van den Oord et al. [[pdf]](https://arxiv.org/pdf/1609.03499.pdf)
+
+- **Deep Voice: Real-time Neural Text-to-Speech**(2017), Sercan O. Arik et al. [[pdf]](https://arxiv.org/pdf/1702.07825.pdf)
+
+- **Tacotron: Towards End-to-End Speech Synthesis**(2017), Yuxuan Wang et al. [[pdf]](https://pdfs.semanticscholar.org/a072/c2a400f62f720b68dc54a662fb1ae115bf06.pdf?\_ga=2.133718478.1725061846.1494658711-1308334183.1494658711)
 
 ## Contact Me
 If my repo is helpful to you, please give me a **star and fork** to encourage me to keep updating. Thank you.
