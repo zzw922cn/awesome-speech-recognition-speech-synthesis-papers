@@ -179,6 +179,4 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Tacotron: Towards End-to-End Speech Synthesis**(2017), Yuxuan Wang et al. [[pdf]](https://pdfs.semanticscholar.org/a072/c2a400f62f720b68dc54a662fb1ae115bf06.pdf?\_ga=2.133718478.1725061846.1494658711-1308334183.1494658711)
 
 ## Contact Me
-If my repo is helpful to you, please give me a **star and fork** to encourage me to keep updating. Thank you.
-
 For any questions, welcome to send email to :**zzw922cn@gmail.com**. Thanks!
