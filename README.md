@@ -159,6 +159,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Recurrent Models for Auditory Attention in Multi-Microphone Distance Speech Recognition**(2017), Suyoun Kim et al. [[pdf]](https://pdfs.semanticscholar.org/b9fc/cd8bee6e6998b87b4efc671dbcee45917282.pdf?\_ga=2.162545140.93942331.1493904208-1691509212.1493904208)
 
+- **Reducing Bias in Production Speech Models**(2017), Eric Battenberg et al. [[pdf]](https://arxiv.org/pdf/1705.04400.pdf)
+
 
 ### Speech Synthesis
 
