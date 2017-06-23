@@ -131,6 +131,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **An enhanced automatic speech recognition system for Arabic**(2017), Mohamed Amine Menacer et al. [[pdf]](https://pdfs.semanticscholar.org/788e/b75befd9c2597f64e072cb2e86f9e7a877e4.pdf?\_ga=1.188540654.730356906.1493526584)
 
+- **Advances in Joint CTC-Attention based End-to-End Speech Recognition with a Deep CNN Encoder and RNN-LM**(2017), Takaaki Hori et al. [[pdf]](https://arxiv.org/pdf/1706.02737)
+
 - **A network of deep neural networks for distant speech recognition**(2017), Mirco Ravanelli et al. [[pdf]](https://arxiv.org/pdf/1703.08002.pdf)
 
 - **An Unsupervised Speaker Clustering Technique based on SOM and I-vectors for Speech Recognition Systems**(2017), Hany Ahmed et al. [[pdf]](https://pdfs.semanticscholar.org/f5be/2cb9d37e5e54c5d20644ff7025cdee14995f.pdf?\_ga=1.185419759.730356906.1493526584)
