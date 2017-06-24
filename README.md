@@ -129,17 +129,23 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **WaveNet: A Generative Model for Raw Audio**(2016), Aäron van den Oord et al. [[pdf]](https://arxiv.org/pdf/1609.03499.pdf)
 
+- **Attentive Convolutional Neural Network based Speech Emotion Recognition: A Study on the Impact of Input Features, Signal Length, and Acted Speech**(2017), Michael Neumann et al. [[pdf]](https://arxiv.org/pdf/1706.00612)
+
 - **An enhanced automatic speech recognition system for Arabic**(2017), Mohamed Amine Menacer et al. [[pdf]](https://pdfs.semanticscholar.org/788e/b75befd9c2597f64e072cb2e86f9e7a877e4.pdf?\_ga=1.188540654.730356906.1493526584)
 
 - **Advances in Joint CTC-Attention based End-to-End Speech Recognition with a Deep CNN Encoder and RNN-LM**(2017), Takaaki Hori et al. [[pdf]](https://arxiv.org/pdf/1706.02737)
 
 - **A network of deep neural networks for distant speech recognition**(2017), Mirco Ravanelli et al. [[pdf]](https://arxiv.org/pdf/1703.08002.pdf)
 
+- **An online sequence-to-sequence model for noisy speech recognition**(2017), Chung-Cheng Chiu et al. [[pdf]](https://arxiv.org/pdf/1706.06428.pdf)
+
 - **An Unsupervised Speaker Clustering Technique based on SOM and I-vectors for Speech Recognition Systems**(2017), Hany Ahmed et al. [[pdf]](https://pdfs.semanticscholar.org/f5be/2cb9d37e5e54c5d20644ff7025cdee14995f.pdf?\_ga=1.185419759.730356906.1493526584)
 
 - **Building DNN acoustic models for large vocabulary speech recognition**(2017), Andrew L. Maas et al. [[pdf]](https://pdfs.semanticscholar.org/ff7b/9fbbbdc78d874fa93134d643a5a0295f648f.pdf?\_ga=1.242426692.730356906.1493526584)
 
 - **Direct Acoustics-to-Word Models for English Conversational Speech Recognition**(2017), Kartik Audhkhasi et al. [[pdf]](https://arxiv.org/pdf/1703.07754.pdf)
+
+- **Deep Learning for Environmentally Robust Speech Recognition: An Overview of Recent Developments**(2017), Zixing Zhang et al. [[pdf]](https://arxiv.org/pdf/1705.10874)
 
 - **English Conversational Telephone Speech Recognition by Humans and Machines**(2017), George Saon et al. [[pdf]](https://arxiv.org/pdf/1703.02136.pdf)
 
@@ -154,6 +160,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Multi-task Learning with CTC and Segmental CRF for Speech Recognition**(2017), Liang Lu et al. [[pdf]](https://arxiv.org/pdf/1702.06378.pdf)
 
 - **Multichannel Signal Processing With Deep Neural Networks for Automatic Speech Recognition**(2017), Tara N. Sainath et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7859320)
+
+- **Optimizing expected word error rate via sampling for speech recognition**(2017), Matt Shannon. [[pdf]](https://arxiv.org/pdf/1706.02776)
 
 - **Residual Convolutional CTC Networks for Automatic Speech Recognition**(2017), Yisen Wang et al. [[pdf]](https://arxiv.org/pdf/1702.07793.pdf)
 
