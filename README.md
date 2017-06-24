@@ -1,5 +1,5 @@
-# awesome-speech-recognition-papers
-automatic speech recognition paper roadmap, including HMM, DNN, RNN, CNN, Seq2Seq, Attention
+# awesome-speech-recognition-speech-synthesis-papers
+automatic speech recognition/speech synthesis paper roadmap, including HMM, DNN, RNN, CNN, Seq2Seq, Attention
 
 ## Introduction
 Automatic Speech Recognition has been investigated for several decades, and speech recognition models are from HMM-GMM to deep neural networks today. It's very necessary to see the history of speech recognition by this awesome paper roadmap. I will cover papers from traditional models to nowadays popular models, not only acoustic models or ASR systems, but also many interesting language models.
