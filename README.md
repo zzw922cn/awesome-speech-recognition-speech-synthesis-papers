@@ -178,6 +178,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **A fast Griffin-Lim algorithm**(2013), Nathanael Perraudin et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6701851)
 
+- **Char2Wav: End-to-end speech synthesis**(2017), J Sotelo et al. [[pdf]](https://openreview.net/forum?id=B1VWyySKx)
+
 - **First Step Towards End-to-End Parametric TTS Synthesis: Generating Spectral Parameters with Neural Attention**(2016), Wenfu Wang et al. [[pdf]](http://doi.org/10.21437/Interspeech.2016-134)
 
 - **Recent Advances in Google Real-Time HMM-Driven Unit Selection Synthesizer**(2016), Xavi Gonzalvo et al. [[pdf]](http://doi.org/10.21437/Interspeech.2016-264)
