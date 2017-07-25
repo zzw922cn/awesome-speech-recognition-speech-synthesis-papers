@@ -192,6 +192,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Deep Voice 2: Multi-Speaker Neural Text-to-Speech**(2017), Sercan Arik et al. [[pdf]](https://arxiv.org/pdf/1705.08947)
 
+- **Statistical Parametric Speech Synthesis Using Generative Adversarial Networks Under A Multi-task Learning Framework**(2017), S Yang et al. [[pdf]](https://arxiv.org/pdf/1707.01670)
+
 - **Tacotron: Towards End-to-End Speech Synthesis**(2017), Yuxuan Wang et al. [[pdf]](https://pdfs.semanticscholar.org/a072/c2a400f62f720b68dc54a662fb1ae115bf06.pdf?\_ga=2.133718478.1725061846.1494658711-1308334183.1494658711)
 
 ### Language Modelling
@@ -203,7 +205,9 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Efficient Training and Evaluation of Recurrent Neural Network Language Models for Automatic Speech Recognition**(2016), Xie Chen et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7533441)
 
+- **Exploring the limits of language modeling**(2016), R Jozefowicz et al. [[pdf]](https://arxiv.org/pdf/1602.02410)
 
+- **On the State of the Art of Evaluation in Neural Language Models**(2016), G Melis et al. [[pdf]](https://arxiv.org/pdf/1707.05589)
 
 ## Contact Me
 For any questions, welcome to send email to :**zzw922cn@gmail.com**. Thanks!
