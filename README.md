@@ -77,6 +77,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Towards End-to-End Speech Recognition with Recurrent Neural Networks**(2014), Alex Graves et al. [[pdf]](https://pdfs.semanticscholar.org/0fa5/53cfa0cf3cbdf7a913aa2ae789a757dfb32f.pdf?\_ga=1.214035281.730356906.1493526584)
 
+- **A neural transducer**(2015), N Jaitly et al. [[pdf]](https://arxiv.org/abs/1511.04868)
+
 - **Attention-Based Models for Speech Recognition**(2015), Jan Chorowski et al. [[pdf]](https://pdfs.semanticscholar.org/b624/504240fa52ab76167acfe3156150ca01cf3b.pdf?\_ga=1.50080608.730356906.1493526584)
 
 - **Analysis of CNN-based speech recognition system using raw speech as input**(2015), Dimitri Palaz et al. [[pdf]](https://pdfs.semanticscholar.org/31f5/36e48482fc273d521525604606f417638881.pdf?\_ga=1.213722706.730356906.1493526584)
@@ -140,6 +142,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **An online sequence-to-sequence model for noisy speech recognition**(2017), Chung-Cheng Chiu et al. [[pdf]](https://arxiv.org/pdf/1706.06428.pdf)
 
 - **An Unsupervised Speaker Clustering Technique based on SOM and I-vectors for Speech Recognition Systems**(2017), Hany Ahmed et al. [[pdf]](https://pdfs.semanticscholar.org/f5be/2cb9d37e5e54c5d20644ff7025cdee14995f.pdf?\_ga=1.185419759.730356906.1493526584)
+
+- **Attention-Based End-to-End Speech Recognition in Mandarin**(2017), C Shan et al. [[pdf]](https://arxiv.org/abs/1707.07167)
 
 - **Building DNN acoustic models for large vocabulary speech recognition**(2017), Andrew L. Maas et al. [[pdf]](https://pdfs.semanticscholar.org/ff7b/9fbbbdc78d874fa93134d643a5a0295f648f.pdf?\_ga=1.242426692.730356906.1493526584)
 
