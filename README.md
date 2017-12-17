@@ -155,11 +155,15 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA**(2017), Song Han et al. [[pdf]](http://dl.acm.org/citation.cfm?id=3021745)
 
+- **Exploring Speech Enhancement with Generative Adversarial Networks for Robust Speech Recognition**(2017), Chris Donahue et al. [[pdf]](https://arxiv.org/pdf/1711.05747)
+
 - **Deep LSTM for Large Vocabulary Continuous Speech Recognition**(2017), Xu Tian et al. [[pdf]](https://arxiv.org/pdf/1703.07090.pdf)
 
 - **Dynamic Layer Normalization for Adaptive Neural Acoustic Modeling in Speech Recognition**(2017), Taesup Kim et al. [[pdf]](https://arxiv.org/pdf/1707.06065v1.pdf)
 
 - **Gram-CTC: Automatic Unit Selection and Target Decomposition for Sequence Labelling**(2017), Hairong Liu et al. [[pdf]](https://arxiv.org/pdf/1703.00096.pdf)
+
+- **Improving the Performance of Online Neural Transducer Models**(2017), Tara N. Sainath et al. [[pdf]](https://arxiv.org/pdf/1712.01807)
 
 - **Multichannel End-to-end Speech Recognition**(2017), Tsubasa Ochiai et al. [[pdf]](https://arxiv.org/pdf/1703.04783.pdf)
 
@@ -176,6 +180,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Recurrent Models for Auditory Attention in Multi-Microphone Distance Speech Recognition**(2017), Suyoun Kim et al. [[pdf]](https://pdfs.semanticscholar.org/b9fc/cd8bee6e6998b87b4efc671dbcee45917282.pdf?\_ga=2.162545140.93942331.1493904208-1691509212.1493904208)
 
 - **Reducing Bias in Production Speech Models**(2017), Eric Battenberg et al. [[pdf]](https://arxiv.org/pdf/1705.04400.pdf)
+
+- **State-of-the-art Speech Recognition With Sequence-to-Sequence Models**(2017), Chung-Cheng Chiu et al. [[pdf]](https://arxiv.org/pdf/1712.01769)
 
 
 ### Speech Synthesis
