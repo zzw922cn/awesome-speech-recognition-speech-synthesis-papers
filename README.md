@@ -165,11 +165,15 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Improving the Performance of Online Neural Transducer Models**(2017), Tara N. Sainath et al. [[pdf]](https://arxiv.org/pdf/1712.01807)
 
+- **Learning Filterbanks from Raw Speech for Phone Recognition**(2017), Neil Zeghidour et al. [[pdf]](https://arxiv.org/pdf/1711.01161)
+
 - **Multichannel End-to-end Speech Recognition**(2017), Tsubasa Ochiai et al. [[pdf]](https://arxiv.org/pdf/1703.04783.pdf)
 
 - **Multi-task Learning with CTC and Segmental CRF for Speech Recognition**(2017), Liang Lu et al. [[pdf]](https://arxiv.org/pdf/1702.06378.pdf)
 
 - **Multichannel Signal Processing With Deep Neural Networks for Automatic Speech Recognition**(2017), Tara N. Sainath et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7859320)
+
+- **Multilingual Speech Recognition With A Single End-To-End Model**(2017), Shubham Toshniwal et al. [[pdf]](https://arxiv.org/pdf/1711.01694)
 
 - **Optimizing expected word error rate via sampling for speech recognition**(2017), Matt Shannon. [[pdf]](https://arxiv.org/pdf/1706.02776)
 
@@ -181,7 +185,11 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Reducing Bias in Production Speech Models**(2017), Eric Battenberg et al. [[pdf]](https://arxiv.org/pdf/1705.04400.pdf)
 
+- **Robust Speech Recognition Using Generative Adversarial Networks**(2017), Anuroop Sriram et al. [[pdf]](https://arxiv.org/pdf/1711.01567)
+
 - **State-of-the-art Speech Recognition With Sequence-to-Sequence Models**(2017), Chung-Cheng Chiu et al. [[pdf]](https://arxiv.org/pdf/1712.01769)
+
+- **Towards Language-Universal End-to-End Speech Recognition**(2017), Suyoun Kim et al. [[pdf]](https://arxiv.org/pdf/1711.02207)
 
 
 ### Speaker Verification
@@ -199,11 +207,15 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Deep Speaker Verification: Do We Need End to End?**(2017), Dong Wang et al. [[pdf]](https://arxiv.org/pdf/1706.07859)
 
+- **Speaker Diarization with LSTM**(2017), Quan Wang et al. [[pdf]](https://arxiv.org/pdf/1710.10468)
+
 - **Text-Independent Speaker Verification Using 3D Convolutional Neural Networks**(2017), Amirsina Torfi et al. [[pdf]](https://arxiv.org/pdf/1705.09422)
 
 
 ### Speech Synthesis
 - **Signal estimation from modified short-time Fourier transform**(1993), Daniel W. Griffin et al. [[pdf]](https://pdfs.semanticscholar.org/ade8/d1511a61d78948bb0d43e207593389935421.pdf?\_ga=2.229355228.1725061846.1494658711-1308334183.1494658711)
+
+- **Text-to-speech synthesis**(2009), Paul Taylor et al. [[pdf]](https://books.google.com/books?hl=zh-CN&lr=&id=BFnkm-FpBAUC&oi=fnd&pg=PR9&dq=Text-to-Speech+Synthesis&ots=ucm6pVQ0bW&sig=1ZoIFILLQLbdHtJu0MlLHkmPnqE#v=onepage&q=Text-to-Speech%20Synthesis&f=false)
 
 - **A fast Griffin-Lim algorithm**(2013), Nathanael Perraudin et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6701851)
 
@@ -225,9 +237,15 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions**(2017), Jonathan Shen et al. [[pdf]](https://arxiv.org/pdf/1712.05884)
 
+- **Parallel WaveNet: Fast High-Fidelity Speech Synthesis**(2017), Aaron van den Oord et al. [[pdf]](https://arxiv.org/pdf/1711.10433)
+
 - **Statistical Parametric Speech Synthesis Using Generative Adversarial Networks Under A Multi-task Learning Framework**(2017), S Yang et al. [[pdf]](https://arxiv.org/pdf/1707.01670)
 
 - **Tacotron: Towards End-to-End Speech Synthesis**(2017), Yuxuan Wang et al. [[pdf]](https://pdfs.semanticscholar.org/a072/c2a400f62f720b68dc54a662fb1ae115bf06.pdf?\_ga=2.133718478.1725061846.1494658711-1308334183.1494658711)
+
+- **Uncovering Latent Style Factors for Expressive Speech Synthesis**(2017), Yuxuan Wang et al. [[pdf]](https://arxiv.org/pdf/1711.00520)
+
+- **VoiceLoop: Voice Fitting and Synthesis via a Phonological Loop**(2017), Yaniv Taigman et al. [[pdf]](https://arxiv.org/pdf/1707.06588)
 
 ### Language Modelling
 - **Class-Based n-gram Models of Natural Language**(1992), Peter F. Brown et al. [[pdf]](https://pdfs.semanticscholar.org/ce84/cf6160ab221d5ee67afad046d2b89560749d.pdf?\_ga=2.197138663.999867306.1494660639-1308334183.1494658711)
