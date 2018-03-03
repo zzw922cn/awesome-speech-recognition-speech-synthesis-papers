@@ -27,13 +27,15 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **A post-processing system to yield reduced word error rates: Recognizer Output Voting Error Reduction (ROVER)**(1997), J.G. Fiscus. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=659110)
 
+- **Speech recognition with weighted finite-state transducers**(2001), M Mohri et al. [[pdf]](https://cs.nyu.edu/~mohri/pub/hbka.pdf)
+
 - **Review of Tdnn (time Delay Neural Network) Architectures for Speech Recognition**(2014), Masahide Sugiyamat et al. [[pdf]](https://pdfs.semanticscholar.org/073b/6128f04fe4b88b88ae297615af289c308753.pdf?\_ga=2.103860032.1725061846.1494658711-1308334183.1494658711)
 
 - **Framewise phoneme classification with bidirectional LSTM and other neural network architectures**(2005), Alex Graves et al. [[pdf]](https://pdfs.semanticscholar.org/83d6/1d9b71a838aa150d7ef232dc6d4c73e24250.pdf?\_ga=1.187838062.730356906.1493526584)
 
 - **Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks**(2006), Alex Graves et al. [[pdf]](https://pdfs.semanticscholar.org/daed/0db4538e1a83b4680545b44e3083843168e7.pdf?\_ga=1.45211874.730356906.1493526584)
 
-- **The kaldi speech recognition toolkit**(2011), Daniel Povey et al. [[pdf]](http://publications.idiap.ch/downloads/reports/2011/Povey_Idiap-RR-04-2012.pdf)
+- **The kaldi speech recognition toolkit**(2011), Daniel Povey et al. [[pdf]](http://publications.idiap.ch/downloads/reports/2011/Povey\_Idiap-RR-04-2012.pdf)
 
 - **Applying Convolutional Neural Networks concepts to hybrid NN-HMM model for speech recognition**(2012), Ossama Abdel-Hamid et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6288864)
 
@@ -88,6 +90,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Deep convolutional neural networks for acoustic modeling in low resource languages**(2015), William Chan et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178332)
 
 - **Deep Neural Networks for Single-Channel Multi-Talker Speech Recognition**(2015), Chao Weng et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7122291)
+
+- **EESEN: End-to-end speech recognition using deep RNN models and WFST-based decoding**(2015), Y Miao et al. [[pdf]](https://arxiv.org/pdf/1507.08240.pdf)
 
 - **Fast and Accurate Recurrent Neural Network Acoustic Models for Speech Recognition**(2015), Hasim Sak et al. [[pdf]](https://pdfs.semanticscholar.org/9fca/2af9a0e3f2c5c3ed47abb3ebd21b7265ac2b.pdf?\_ga=1.222094174.730356906.1493526584)
 
