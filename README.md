@@ -253,6 +253,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **VoiceLoop: Voice Fitting and Synthesis via a Phonological Loop**(2017), Yaniv Taigman et al. [[pdf]](https://arxiv.org/pdf/1707.06588)
 
+- **Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions**(2017), Jonathan Shen et al. [[pdf]](https://arxiv.org/pdf/1712.05884)
+
 - **Neural Voice Cloning with a Few Samples**(2018), Sercan O. Arık ,  Jitong Chen , 1 Kainan Peng , Wei Ping *  et al. [[pdf]](https://arxiv.org/pdf/1802.06006.pdf)
 
 
