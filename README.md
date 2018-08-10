@@ -257,6 +257,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Neural Voice Cloning with a Few Samples**(2018), Sercan O. Arık ,  Jitong Chen , 1 Kainan Peng , Wei Ping *  et al. [[pdf]](https://arxiv.org/pdf/1802.06006.pdf)
 
+- **ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech**(2018), Wei Ping, Kainan Peng, Jitong Chen et al. [[pdf]](https://arxiv.org/pdf/1807.07281.pdf)
+
 
 ### Language Modelling
 - **Class-Based n-gram Models of Natural Language**(1992), Peter F. Brown et al. [[pdf]](https://pdfs.semanticscholar.org/ce84/cf6160ab221d5ee67afad046d2b89560749d.pdf?\_ga=2.197138663.999867306.1494660639-1308334183.1494658711)
