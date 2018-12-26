@@ -283,5 +283,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **On the State of the Art of Evaluation in Neural Language Models**(2016), G Melis et al. [[pdf]](https://arxiv.org/pdf/1707.05589)
 
+### Music Modelling
+- **Onsets and Frames: Dual-Objective Piano Transcription**(2017), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/abs/1710.11153)
+
 ## Contact Me
 For any questions, welcome to send email to :**zzw922cn@gmail.com**. Thanks!
