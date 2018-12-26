@@ -197,6 +197,10 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Accelerating recurrent neural network language model based online speech recognition system**(2018), K Lee et al. [[pdf]](https://arxiv.org/pdf/1801.09866)
 
+- **An improved hybrid CTC-Attention model for speech recognition**(2018), Zhe Yuan et al. [[pdf]](https://arxiv.org/abs/1810.12020)
+
+- **Hybrid CTC-Attention based End-to-End Speech Recognition using Subword Units**(2018), Zhangyu Xiao et al. [[pdf]](https://arxiv.org/abs/1807.04978)
+
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
@@ -254,6 +258,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **VoiceLoop: Voice Fitting and Synthesis via a Phonological Loop**(2017), Yaniv Taigman et al. [[pdf]](https://arxiv.org/pdf/1707.06588)
 
 - **Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions**(2017), Jonathan Shen et al. [[pdf]](https://arxiv.org/pdf/1712.05884)
+
+- **ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech**(2018), Wei Ping et al. [[pdf]](https://arxiv.org/pdf/1807.07281.pdf)
 
 - **Neural Voice Cloning with a Few Samples**(2018), Sercan O. Arık ,  Jitong Chen , 1 Kainan Peng , Wei Ping *  et al. [[pdf]](https://arxiv.org/pdf/1802.06006.pdf)
 
