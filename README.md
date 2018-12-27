@@ -229,6 +229,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **A fast Griffin-Lim algorithm**(2013), Nathanael Perraudin et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6701851)
 
+- **TTS synthesis with bidirectional LSTM based recurrent neural networks**(2014), Yuchen Fan et al. [[pdf]](https://pdfs.semanticscholar.org/c217/905bc98f00af747e8e9d5f6b79fb89a90886.pdf)
+
 - **First Step Towards End-to-End Parametric TTS Synthesis: Generating Spectral Parameters with Neural Attention**(2016), Wenfu Wang et al. [[pdf]](http://doi.org/10.21437/Interspeech.2016-134)
 
 - **Recent Advances in Google Real-Time HMM-Driven Unit Selection Synthesizer**(2016), Xavi Gonzalvo et al. [[pdf]](http://doi.org/10.21437/Interspeech.2016-264)
@@ -260,6 +262,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Natural TTS Synthesis by Conditioning WaveNet on Mel Spectrogram Predictions**(2017), Jonathan Shen et al. [[pdf]](https://arxiv.org/pdf/1712.05884)
 
 - **ClariNet: Parallel Wave Generation in End-to-End Text-to-Speech**(2018), Wei Ping et al. [[pdf]](https://arxiv.org/pdf/1807.07281.pdf)
+
+- **Deep Feed-forward Sequential Memory Networks for Speech Synthesis**(2018), Mengxiao Bi et al. [[pdf]](https://arxiv.org/abs/1802.09194)
 
 - **Neural Voice Cloning with a Few Samples**(2018), Sercan O. Arık ,  Jitong Chen , 1 Kainan Peng , Wei Ping *  et al. [[pdf]](https://arxiv.org/pdf/1802.06006.pdf)
 
