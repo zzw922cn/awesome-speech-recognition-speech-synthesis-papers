@@ -222,6 +222,10 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Text-Independent Speaker Verification Using 3D Convolutional Neural Networks**(2017), Amirsina Torfi et al. [[pdf]](https://arxiv.org/pdf/1705.09422)
 
 ### Voice Conversion
+- **Voice conversion using deep Bidirectional Long Short-Term Memory based Recurrent Neural Networks**(2015), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7178896)
+- **Phonetic posteriorgrams for many-to-one voice conversion without parallel data training**(2016), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7552917)
+- **AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss**(2019), Kaizhi Qian et al. [[pdf]](http://proceedings.mlr.press/v97/qian19c.html)
+- **Unsupervised End-to-End Learning of Discrete Linguistic Units for Voice Conversion**(2019), Andy T. Liu et al. [[pdf]](https://arxiv.org/pdf/1905.11563)
 
 
 ### Speech Synthesis
@@ -312,6 +316,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks**(2019), Santiago Pascual et al. [[pdf]](https://arxiv.org/pdf/1904.03416.pdf)
 
 - **Self-supervised audio representation learning for mobile devices**(2019), Marco Tagliasacchi et al. [[pdf]](https://arxiv.org/pdf/1905.11796.pdf)
+- **Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks**(2019), Guanzhong Tian et al. [[pdf]](https://arxiv.org/pdf/1905.11142)
 
 ## Contact Me
 For any questions, welcome to send email to :**zzw922cn@gmail.com**. Thanks!
