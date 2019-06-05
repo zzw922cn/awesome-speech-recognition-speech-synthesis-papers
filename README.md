@@ -221,6 +221,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Text-Independent Speaker Verification Using 3D Convolutional Neural Networks**(2017), Amirsina Torfi et al. [[pdf]](https://arxiv.org/pdf/1705.09422)
 
+### Voice Conversion
+
 
 ### Speech Synthesis
 - **Signal estimation from modified short-time Fourier transform**(1993), Daniel W. Griffin et al. [[pdf]](https://pdfs.semanticscholar.org/ade8/d1511a61d78948bb0d43e207593389935421.pdf?\_ga=2.229355228.1725061846.1494658711-1308334183.1494658711)
@@ -274,6 +276,14 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Fast spectrogram inversion using multi-head convolutional neural networks**(2019), SÖ Arık et al. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8528831)
 
 - **Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis**(2019), Ye Jia et al. [[pdf]](https://arxiv.org/pdf/1806.04558.pdf)
+ 
+- **Problem-Agnostic Speech Embeddings for Multi-Speaker Text-to-Speech with SampleRNN**(2019), David Alvarez et al. [[pdf]](https://arxiv.org/pdf/1906.00733.pdf)
+
+- **Robust Sequence-to-Sequence Acoustic Modeling with Stepwise Monotonic Attention for Neural TTS**(2019), Mutian He et al. [[pdf]](https://arxiv.org/pdf/1906.00672.pdf)
+
+- **FastSpeech: Fast, Robust and Controllable Text to Speech**(2019), Yi Ren et al. [[pdf]](https://arxiv.org/pdf/1905.09263.pdf)
+
+- **Parallel Neural Text-to-Speech**(2019), Kainan Peng et al. [[pdf]](https://arxiv.org/pdf/1905.08459.pdf)
 
 
 ### Language Modelling
@@ -297,6 +307,11 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 ### Music Modelling
 - **Onsets and Frames: Dual-Objective Piano Transcription**(2017), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/abs/1710.11153)
+
+### Interesting papers
+- **Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks**(2019), Santiago Pascual et al. [[pdf]](https://arxiv.org/pdf/1904.03416.pdf)
+
+- **Self-supervised audio representation learning for mobile devices**(2019), Marco Tagliasacchi et al. [[pdf]](https://arxiv.org/pdf/1905.11796.pdf)
 
 ## Contact Me
 For any questions, welcome to send email to :**zzw922cn@gmail.com**. Thanks!
