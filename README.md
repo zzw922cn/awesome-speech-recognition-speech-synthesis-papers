@@ -287,7 +287,13 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **FastSpeech: Fast, Robust and Controllable Text to Speech**(2019), Yi Ren et al. [[pdf]](https://arxiv.org/pdf/1905.09263.pdf)
 
+- **MelNet: A Generative Model for Audio in the Frequency Domain**(2019), Sean Vasquez et al. [[pdf]](https://arxiv.org/pdf/1906.01083)
+
 - **Parallel Neural Text-to-Speech**(2019), Kainan Peng et al. [[pdf]](https://arxiv.org/pdf/1905.08459.pdf)
+
+- **Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models**(2019), Wei Fang et al. [[pdf]](https://arxiv.org/pdf/1906.07307.pdf)
+
+
 
 
 ### Language Modelling
