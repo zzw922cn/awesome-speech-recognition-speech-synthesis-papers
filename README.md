@@ -277,24 +277,23 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Fast spectrogram inversion using multi-head convolutional neural networks**(2019), SÖ Arık et al. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8528831)
 
+- **FastSpeech: Fast, Robust and Controllable Text to Speech**(2019), Yi Ren et al. [[pdf]](https://arxiv.org/pdf/1905.09263.pdf)
+
 - **Learning to Speak Fluently in a Foreign Language: Multilingual Speech Synthesis and Cross-Language Voice Cloning**(2019), Yu Zhang et al. [[pdf]](https://arxiv.org/pdf/1907.04448)
+
+- **MelNet: A Generative Model for Audio in the Frequency Domain**(2019), Sean Vasquez et al. [[pdf]](https://arxiv.org/pdf/1906.01083)
 
 - **Multi-Speaker End-to-End Speech Synthesis**(2019), Jihyun Park et al. [[pdf]](https://arxiv.org/pdf/1907.04462)
 
-- **Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis**(2019), Ye Jia et al. [[pdf]](https://arxiv.org/pdf/1806.04558.pdf)
+- **Parallel Neural Text-to-Speech**(2019), Kainan Peng et al. [[pdf]](https://arxiv.org/pdf/1905.08459.pdf)
  
 - **Problem-Agnostic Speech Embeddings for Multi-Speaker Text-to-Speech with SampleRNN**(2019), David Alvarez et al. [[pdf]](https://arxiv.org/pdf/1906.00733.pdf)
 
 - **Robust Sequence-to-Sequence Acoustic Modeling with Stepwise Monotonic Attention for Neural TTS**(2019), Mutian He et al. [[pdf]](https://arxiv.org/pdf/1906.00672.pdf)
 
-- **FastSpeech: Fast, Robust and Controllable Text to Speech**(2019), Yi Ren et al. [[pdf]](https://arxiv.org/pdf/1905.09263.pdf)
-
-- **MelNet: A Generative Model for Audio in the Frequency Domain**(2019), Sean Vasquez et al. [[pdf]](https://arxiv.org/pdf/1906.01083)
-
-- **Parallel Neural Text-to-Speech**(2019), Kainan Peng et al. [[pdf]](https://arxiv.org/pdf/1905.08459.pdf)
-
 - **Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models**(2019), Wei Fang et al. [[pdf]](https://arxiv.org/pdf/1906.07307.pdf)
 
+- **Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis**(2019), Ye Jia et al. [[pdf]](https://arxiv.org/pdf/1806.04558.pdf)
 
 
 
