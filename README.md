@@ -5,6 +5,13 @@ automatic speech recognition/speech synthesis paper roadmap, including HMM, DNN,
 Automatic Speech Recognition has been investigated for several decades, and speech recognition models are from HMM-GMM to deep neural networks today. It's very necessary to see the history of speech recognition by this awesome paper roadmap. I will cover papers from traditional models to nowadays popular models, not only acoustic models or ASR systems, but also many interesting language models.
 
 ## Paper List
+- [Automatic Speech Recognition](#Automatic-Speech-Recognition)
+- [Speaker Verification](Speaker-Verification)
+- [Voice Conversion](Voice-Conversion)
+- [Speech Synthesis](Speech-Synthesis)
+- [Language Modelling](Language-Modelling)
+- [Music Modelling](Music-Modelling)
+- [Interesting papers](Interesting-papers)
 
 ### Automatic Speech Recognition
 - **An Introduction to the Application of the Theory of Probabilistic Functions of a Markov Process to Automatic Speech Recognition**(1982), S. E. LEVINSON et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6768244)
