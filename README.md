@@ -298,6 +298,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Multi-Speaker End-to-End Speech Synthesis**(2019), Jihyun Park et al. [[pdf]](https://arxiv.org/pdf/1907.04462)
 
+- **MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis**(2019), Kundan Kumar et al. [[pdf]](https://arxiv.org/pdf/1910.06711.pdf)
+
 - **Parallel Neural Text-to-Speech**(2019), Kainan Peng et al. [[pdf]](https://arxiv.org/pdf/1905.08459.pdf)
  
 - **Problem-Agnostic Speech Embeddings for Multi-Speaker Text-to-Speech with SampleRNN**(2019), David Alvarez et al. [[pdf]](https://arxiv.org/pdf/1906.00733.pdf)
