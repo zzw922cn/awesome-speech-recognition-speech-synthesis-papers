@@ -276,11 +276,15 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Deep Feed-forward Sequential Memory Networks for Speech Synthesis**(2018), Mengxiao Bi et al. [[pdf]](https://arxiv.org/abs/1802.09194)
 
+- **LPCNet: Improving Neural Speech Synthesis Through Linear Prediction**(2018), Jean-Marc Valin et al. [[pdf]](https://arxiv.org/pdf/1810.11846)
+
 - **Neural Voice Cloning with a Few Samples**(2018), Sercan O. Arık et al. [[pdf]](https://arxiv.org/pdf/1802.06006.pdf)
 
 - **Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis**(2018), Y Wang et al. [[pdf]](https://arxiv.org/pdf/1803.09017.pdf)
 
 - **Towards End-to-End Prosody Transfer for Expressive Speech Synthesis with Tacotron**(2018), RJ Skerry-Ryan et al. [[pdf]](https://arxiv.org/pdf/1803.09047)
+
+- **DurIAN: Duration Informed Attention Network For Multimodal Synthesis**(2019), Chengzhu Yu et al. [[pdf]](https://arxiv.org/pdf/1909.01700)
 
 - **Fast spectrogram inversion using multi-head convolutional neural networks**(2019), SÖ Arık et al. [[pdf]](https://ieeexplore.ieee.org/abstract/document/8528831)
 
@@ -301,6 +305,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Towards Transfer Learning for End-to-End Speech Synthesis from Deep Pre-Trained Language Models**(2019), Wei Fang et al. [[pdf]](https://arxiv.org/pdf/1906.07307.pdf)
 
 - **Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis**(2019), Ye Jia et al. [[pdf]](https://arxiv.org/pdf/1806.04558.pdf)
+
+- **Waveglow: A flow-based generative network for speech synthesis**(2019), R Prenger et al. [[pdf]](https://arxiv.org/pdf/1811.00002.pdf)
 
 
 
