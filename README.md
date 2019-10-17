@@ -278,6 +278,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **LPCNet: Improving Neural Speech Synthesis Through Linear Prediction**(2018), Jean-Marc Valin et al. [[pdf]](https://arxiv.org/pdf/1810.11846)
 
+- **Learning latent representations for style control and transfer in end-to-end speech synthesis**(2018), Ya-Jie Zhang et al. [[pdf]](https://arxiv.org/pdf/1812.04342)
+
 - **Neural Voice Cloning with a Few Samples**(2018), Sercan O. Arık et al. [[pdf]](https://arxiv.org/pdf/1802.06006.pdf)
 
 - **Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis**(2018), Y Wang et al. [[pdf]](https://arxiv.org/pdf/1803.09017.pdf)
