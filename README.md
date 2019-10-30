@@ -338,6 +338,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Onsets and Frames: Dual-Objective Piano Transcription**(2017), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/abs/1710.11153)
 
 ### Interesting papers
+- **FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow**(2019), Xuezhe Ma et al. [[pdf]](https://arxiv.org/pdf/1909.02480)
+
 - **Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks**(2019), Santiago Pascual et al. [[pdf]](https://arxiv.org/pdf/1904.03416.pdf)
 
 - **Self-supervised audio representation learning for mobile devices**(2019), Marco Tagliasacchi et al. [[pdf]](https://arxiv.org/pdf/1905.11796.pdf)
