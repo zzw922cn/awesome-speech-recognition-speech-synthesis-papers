@@ -341,6 +341,9 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks**(2019), Santiago Pascual et al. [[pdf]](https://arxiv.org/pdf/1904.03416.pdf)
 
 - **Self-supervised audio representation learning for mobile devices**(2019), Marco Tagliasacchi et al. [[pdf]](https://arxiv.org/pdf/1905.11796.pdf)
+
+- **SinGAN: Learning a Generative Model from a Single Natural Image**(2019), Tamar Rott Shaham et al. [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.pdf)
+
 - **Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks**(2019), Guanzhong Tian et al. [[pdf]](https://arxiv.org/pdf/1905.11142)
 
 ## Contact Me
