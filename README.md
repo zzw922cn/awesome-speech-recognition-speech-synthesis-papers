@@ -312,6 +312,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Waveglow: A flow-based generative network for speech synthesis**(2019), R Prenger et al. [[pdf]](https://arxiv.org/pdf/1811.00002.pdf)
 
+- **BOFFIN TTS: Few-Shot Speaker Adaptation by Bayesian Optimization**(2020), Henry B.Moss et al. [[pdf]](https://arxiv.org/pdf/2002.01953.pdf)
+
 
 
 
