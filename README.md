@@ -228,6 +228,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Text-Independent Speaker Verification Using 3D Convolutional Neural Networks**(2017), Amirsina Torfi et al. [[pdf]](https://arxiv.org/pdf/1705.09422)
 
+- **End-to-End Text-Independent Speaker Verification with Triplet Loss on Short Utterances**(2017), Chunlei Zhang et al. [[pdf]](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1608.PDF)
 ### Voice Conversion
 - **Voice conversion using deep Bidirectional Long Short-Term Memory based Recurrent Neural Networks**(2015), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7178896)
 - **Phonetic posteriorgrams for many-to-one voice conversion without parallel data training**(2016), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7552917)
@@ -301,7 +302,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis**(2019), Kundan Kumar et al. [[pdf]](https://arxiv.org/pdf/1910.06711.pdf)
 
 - **Parallel Neural Text-to-Speech**(2019), Kainan Peng et al. [[pdf]](https://arxiv.org/pdf/1905.08459.pdf)
- 
+
 - **Problem-Agnostic Speech Embeddings for Multi-Speaker Text-to-Speech with SampleRNN**(2019), David Alvarez et al. [[pdf]](https://arxiv.org/pdf/1906.00733.pdf)
 
 - **Robust Sequence-to-Sequence Acoustic Modeling with Stepwise Monotonic Attention for Neural TTS**(2019), Mutian He et al. [[pdf]](https://arxiv.org/pdf/1906.00672.pdf)
