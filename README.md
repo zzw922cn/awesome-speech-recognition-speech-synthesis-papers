@@ -211,24 +211,24 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
-
 - **A tutorial on text-independent speaker verification**(2004), Frédéric Bimbot et al. [[pdf]](https://dl.acm.org/ft\_gateway.cfm?id=1289376&ftid=464492&dwn=1&CFID=843437542&CFTOKEN=31448020)
-
 - **Deep neural networks for small footprint text-dependent speaker verification**(2014), E Variani et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6854363)
-
 - **Deep Speaker Vectors for Semi Text-independent Speaker Verification**(2015), Lantian Li et al. [[pdf]](https://arxiv.org/pdf/1505.06427)
-
 - **Deep Speaker: an End-to-End Neural Speaker Embedding System**(2017), Chao Li et al. [[pdf]](https://arxiv.org/pdf/1705.02304.pdf)
-
 - **Deep Speaker Feature Learning for Text-independent Speaker Verification**(2017), Lantian Li et al. [[pdf]](https://arxiv.org/pdf/1705.03670)
-
 - **Deep Speaker Verification: Do We Need End to End?**(2017), Dong Wang et al. [[pdf]](https://arxiv.org/pdf/1706.07859)
-
 - **Speaker Diarization with LSTM**(2017), Quan Wang et al. [[pdf]](https://arxiv.org/pdf/1710.10468)
-
 - **Text-Independent Speaker Verification Using 3D Convolutional Neural Networks**(2017), Amirsina Torfi et al. [[pdf]](https://arxiv.org/pdf/1705.09422)
-
 - **End-to-End Text-Independent Speaker Verification with Triplet Loss on Short Utterances**(2017), Chunlei Zhang et al. [[pdf]](https://www.isca-speech.org/archive/Interspeech_2017/pdfs/1608.PDF)
+- **Deep Neural Network Embeddings for Text-Independent Speaker Verification**(2017), David Snyder et al. [[pdf]](https://pdfs.semanticscholar.org/3697/28d7576683a25de8890e4bc02fae6132fccb.pdf)
+- **Deep Discriminative Embeddings for Duration Robust Speaker Verification**(2018), Na Li et al. [[pdf]](http://www.academia.edu/download/60361072/DeepDiscriminativeEmbeddingsforDurationRobustSpeakerVeri%EF%AC%81cation20190821-446-67hczh.pdf)
+- **Learning Discriminative Features for Speaker Identification and Verification**(2018), Sarthak Yadav et al. [[pdf]](https://pdfs.semanticscholar.org/ce8c/8e9fdbdd84adc096018bb0edb49b6913b946.pdf)
+- **Large Margin Softmax Loss for Speaker Verification**(2019), Yi Liu et al. [[pdf]](https://arxiv.org/pdf/1904.03479)
+- **Unsupervised feature enhancement for speaker verification**(2019), Phani Sankar Nidadavolu et al. [[pdf]](https://arxiv.org/pdf/1910.11915)
+- **Feature enhancement with deep feature losses for speaker verification**(2019), Saurabh Kataria et al. [[pdf]](https://arxiv.org/pdf/1910.11905)
+- **Spatial Pyramid Encoding with Convex Length Normalization for Text-Independent Speaker Verification**(2019), Youngmoon Jung et al. [[pdf]](https://arxiv.org/pdf/1906.08333)
+- **VoxSRC 2019: The first VoxCeleb Speaker Recognition Challenge**(2019), Son Chung et al. [[pdf]](https://arxiv.org/pdf/1912.02522)
+- **BUT System Description to VoxCeleb Speaker Recognition Challenge 2019**(2019), Hossein Zeinali et al. [[pdf]](https://arxiv.org/pdf/1910.12592)
 ### Voice Conversion
 - **Voice conversion using deep Bidirectional Long Short-Term Memory based Recurrent Neural Networks**(2015), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7178896)
 - **Phonetic posteriorgrams for many-to-one voice conversion without parallel data training**(2016), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7552917)
