@@ -372,6 +372,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 ### Music Modelling
 - **Onsets and Frames: Dual-Objective Piano Transcription**(2017), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/abs/1710.11153)
 
+- **ByteSing- A Chinese Singing Voice Synthesis System Using Duration Allocated Encoder-Decoder Acoustic Models and WaveRNN Vocoders**(2020), Yu Gu et al. [[pdf]](https://arxiv.org/pdf/2004.11012)
+
 
 ### Interesting papers
 - **FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow**(2019), Xuezhe Ma et al. [[pdf]](https://arxiv.org/pdf/1909.02480)
