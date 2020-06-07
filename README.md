@@ -10,6 +10,7 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - [Voice Conversion](#Voice-Conversion)
 - [Speech Synthesis](#Speech-Synthesis)
 - [Language Modelling](#Language-Modelling)
+- [Confidence Estimates](#Confidence-Estimates)
 - [Music Modelling](#Music-Modelling)
 - [Interesting papers](#Interesting-papers)
 
@@ -367,6 +368,20 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Exploring the limits of language modeling**(2016), R Jozefowicz et al. [[pdf]](https://arxiv.org/pdf/1602.02410)
 
 - **On the State of the Art of Evaluation in Neural Language Models**(2016), G Melis et al. [[pdf]](https://arxiv.org/pdf/1707.05589)
+
+
+### Confidence Estimates
+- **Estimating Confidence using Word Lattices**(1997), T. Kemp et al. [[pdf]](http://www.cs.cmu.edu/~tschaaf/MyPublications/1997-eurospeech-kemp-schaaf.pdf)
+
+- **Large vocabulary decoding and confidence estimation using word posterior probabilities**(2000), G. Evermann et al. [[pdf]](http://mi.eng.cam.ac.uk/reports/svr-ftp/evermann_icassp00.pdf)
+
+- **Combining Information Sources for Confidence Estimation with CRF Models**(2011), M. S. Seigel et al. [[pdf]](https://pdfs.semanticscholar.org/d2e6/e51adb6f5d3f7a9265b2eb77b000358ebbab.pdf)
+
+- **Speaker-Adapted Confidence Measures for ASR using Deep Bidirectional Recurrent Neural Networks**(2018), M. ́A. Del-Agua et al. [[pdf]](https://riunet.upv.es/bitstream/handle/10251/121369/double.pdf;jsessionid=F2A9322C712EA9DD1E29C56BD7E7CEA3?sequence=2)
+
+- **Bi-Directional Lattice Recurrent Neural Networks for Confidence Estimation**(2018), Q. Li et al. [[pdf]](https://arxiv.org/pdf/1810.13024.pdf)
+
+- **Confidence Estimation for Black Box Automatic Speech Recognition Systems Using Lattice Recurrent Neural Networks**(2020), A. Kastanos et al. [[pdf]](https://arxiv.org/pdf/1910.11933.pdf)
 
 
 ### Music Modelling
