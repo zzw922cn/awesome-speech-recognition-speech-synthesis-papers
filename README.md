@@ -340,14 +340,29 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Transfer Learning from Speaker Verification to Multispeaker Text-To-Speech Synthesis**(2019), Ye Jia et al. [[pdf]](https://arxiv.org/pdf/1806.04558.pdf)
 
+- **WaveFlow: A Compact Flow-based Model for Raw Audio**(2019), Wei Ping et al. [[pdf]](https://arxiv.org/pdf/1912.01219)
+
 - **Waveglow: A flow-based generative network for speech synthesis**(2019), R Prenger et al. [[pdf]](https://arxiv.org/pdf/1811.00002.pdf)
 
+- **AlignTTS: Efficient Feed-Forward Text-to-Speech System without Explicit Alignmen**(2020), Zhen Zeng et al. [[pdf]](https://arxiv.org/pdf/2003.01950)
+
 - **BOFFIN TTS: Few-Shot Speaker Adaptation by Bayesian Optimization**(2020), Henry B.Moss et al. [[pdf]](https://arxiv.org/pdf/2002.01953.pdf)
+
+- **CopyCat: Many-to-Many Fine-Grained Prosody Transfer for Neural Text-to-Speech**(2020), Sri Karlapati et al. [[pdf]](https://arxiv.org/pdf/2004.14617)
+
+- **End-to-End Adversarial Text-to-Speech**(2020), Jeff Donahue et al. [[pdf]](https://arxiv.org/pdf/2006.03575)
+
+- **Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis**(2020), Rafael Valle et al. [[pdf]](https://arxiv.org/pdf/2005.05957)
+
+- **Flow-TTS: A Non-Autoregressive Network for Text to Speech Based on Flow**(2020), Chenfeng Miao et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054484)
 
 - **Fully-hierarchical fine-grained prosody modeling for interpretable speech synthesis**(2020), Guangzhi Sun et al. [[pdf]](https://arxiv.org/pdf/2002.03785)
 
 - **Generating diverse and natural text-to-speech samples using a quantized fine-grained VAE and auto-regressive prosody prior**(2020), Guangzhi Sun et al. [[pdf]](https://arxiv.org/pdf/2002.03788)
 
+- **Glow-TTS: A Generative Flow for Text-to-Speech via Monotonic Alignment Search**(2020), Jaehyeon Kim et al. [[pdf]](https://arxiv.org/pdf/2005.11129)
+
+- **Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesi**(2020), Eric Battenberg et al. [[pdf]](https://arxiv.org/pdf/1910.10288)
 
 
 ### Language Modelling
@@ -388,6 +403,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Onsets and Frames: Dual-Objective Piano Transcription**(2017), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/abs/1710.11153)
 
 - **ByteSing- A Chinese Singing Voice Synthesis System Using Duration Allocated Encoder-Decoder Acoustic Models and WaveRNN Vocoders**(2020), Yu Gu et al. [[pdf]](https://arxiv.org/pdf/2004.11012)
+
+- **Jukebox: A Generative Model for Music**(2020), Prafulla Dhariwal et al. [[pdf]](https://arxiv.org/pdf/2005.00341)
 
 
 ### Interesting papers
