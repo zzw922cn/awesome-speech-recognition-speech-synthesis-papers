@@ -210,6 +210,10 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Hybrid CTC-Attention based End-to-End Speech Recognition using Subword Units**(2018), Zhangyu Xiao et al. [[pdf]](https://arxiv.org/abs/1807.04978)
 
+- **Improved Noisy Student Training for Automatic Speech Recognition** (2020), Daniel S. Park, et al. [[pdf]](https://arxiv.org/abs/2005.09629)
+
+- **ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context** (2020),  Wei Han, et al. [[pdf]](https://arxiv.org/abs/2005.03191)
+
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
