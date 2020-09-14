@@ -368,6 +368,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesi**(2020), Eric Battenberg et al. [[pdf]](https://arxiv.org/pdf/1910.10288)
 
+- **WaveGrad: Estimating Gradients for Waveform Generation**(2020), Nanxin Chen et al. [[pdf]](https://arxiv.org/pdf/2009.00713)
+
 
 ### Language Modelling
 - **Class-Based n-gram Models of Natural Language**(1992), Peter F. Brown et al. [[pdf]](https://pdfs.semanticscholar.org/ce84/cf6160ab221d5ee67afad046d2b89560749d.pdf?\_ga=2.197138663.999867306.1494660639-1308334183.1494658711)
