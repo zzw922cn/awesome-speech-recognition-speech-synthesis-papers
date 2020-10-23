@@ -334,6 +334,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **MelGAN: Generative Adversarial Networks for Conditional Waveform Synthesis**(2019), Kundan Kumar et al. [[pdf]](https://arxiv.org/pdf/1910.06711.pdf)
 
+- **Neural Speech Synthesis with Transformer Network**(2019), Naihan Li et al. [[pdf]](https://arxiv.org/pdf/1809.08895)
+
 - **Parallel Neural Text-to-Speech**(2019), Kainan Peng et al. [[pdf]](https://arxiv.org/pdf/1905.08459.pdf)
 
 - **Problem-Agnostic Speech Embeddings for Multi-Speaker Text-to-Speech with SampleRNN**(2019), David Alvarez et al. [[pdf]](https://arxiv.org/pdf/1906.00733.pdf)
@@ -352,6 +354,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **BOFFIN TTS: Few-Shot Speaker Adaptation by Bayesian Optimization**(2020), Henry B.Moss et al. [[pdf]](https://arxiv.org/pdf/2002.01953.pdf)
 
+- **Bunched LPCNet : Vocoder for Low-cost Neural Text-To-Speech Systems**(2020), Ravichander Vipperla et al. [[pdf]](https://arxiv.org/pdf/2008.04574)
+
 - **CopyCat: Many-to-Many Fine-Grained Prosody Transfer for Neural Text-to-Speech**(2020), Sri Karlapati et al. [[pdf]](https://arxiv.org/pdf/2004.14617)
 
 - **End-to-End Adversarial Text-to-Speech**(2020), Jeff Donahue et al. [[pdf]](https://arxiv.org/pdf/2006.03575)
@@ -365,6 +369,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Generating diverse and natural text-to-speech samples using a quantized fine-grained VAE and auto-regressive prosody prior**(2020), Guangzhi Sun et al. [[pdf]](https://arxiv.org/pdf/2002.03788)
 
 - **Glow-TTS: A Generative Flow for Text-to-Speech via Monotonic Alignment Search**(2020), Jaehyeon Kim et al. [[pdf]](https://arxiv.org/pdf/2005.11129)
+
+- **HiFi-GAN: Generative Adversarial Networks for Efficient and High Fidelity Speech Synthesis**(2020), Jungil Kong et al. [[pdf]](https://arxiv.org/pdf/2010.05646)
 
 - **Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesi**(2020), Eric Battenberg et al. [[pdf]](https://arxiv.org/pdf/1910.10288)
 
