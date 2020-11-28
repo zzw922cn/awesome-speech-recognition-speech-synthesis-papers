@@ -360,6 +360,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 
 - **End-to-End Adversarial Text-to-Speech**(2020), Jeff Donahue et al. [[pdf]](https://arxiv.org/pdf/2006.03575)
 
+- **FastSpeech 2: Fast and High-Quality End-to-End Text to Speech**(2020), Yi Ren et al. [[pdf]](https://arxiv.org/pdf/2006.04558)
+
 - **Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis**(2020), Rafael Valle et al. [[pdf]](https://arxiv.org/pdf/2005.05957)
 
 - **Flow-TTS: A Non-Autoregressive Network for Text to Speech Based on Flow**(2020), Chenfeng Miao et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9054484)
@@ -429,6 +431,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **SinGAN: Learning a Generative Model from a Single Natural Image**(2019), Tamar Rott Shaham et al. [[pdf]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Shaham_SinGAN_Learning_a_Generative_Model_From_a_Single_Natural_Image_ICCV_2019_paper.pdf)
 
 - **Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks**(2019), Guanzhong Tian et al. [[pdf]](https://arxiv.org/pdf/1905.11142)
+
+- **Attention is Not Only a Weight: Analyzing Transformers with Vector Norms**(2020), Goro Kobayashi et al. [[pdf]](https://arxiv.org/pdf/2004.10102)
 
 ## Contact Me
 For any questions, welcome to send email to :**zzw922cn@gmail.com**. Thanks!
