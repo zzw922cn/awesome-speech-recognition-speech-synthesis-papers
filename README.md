@@ -1,8 +1,5 @@
 # awesome-speech-recognition-speech-synthesis-papers
-automatic speech recognition/speech synthesis paper roadmap, including HMM, DNN, RNN, CNN, Seq2Seq, Attention
-
-## Introduction
-Automatic Speech Recognition has been investigated for several decades, and speech recognition models are from HMM-GMM to deep neural networks today. It's very necessary to see the history of speech recognition by this awesome paper roadmap. I will cover papers from traditional models to nowadays popular models, not only acoustic models or ASR systems, but also many interesting language models.
+I'm a research engineer doing speech synthesis at Tencent. I'm interested in speech synthesis, speech prosody transfer, voice conversion and singing synthesis. I collect some papers which I think very interesting in speech field, I hope this project will help you.
 
 ## Paper List
 - [Automatic Speech Recognition](#Automatic-Speech-Recognition)
@@ -357,6 +354,8 @@ Automatic Speech Recognition has been investigated for several decades, and spee
 - **Bunched LPCNet : Vocoder for Low-cost Neural Text-To-Speech Systems**(2020), Ravichander Vipperla et al. [[pdf]](https://arxiv.org/pdf/2008.04574)
 
 - **CopyCat: Many-to-Many Fine-Grained Prosody Transfer for Neural Text-to-Speech**(2020), Sri Karlapati et al. [[pdf]](https://arxiv.org/pdf/2004.14617)
+    
+- **EfficientTTS: An Efficient and High-Quality Text-to-Speech Architecture**(2020), Chenfeng Miao et al. [[pdf]](https://arxiv.org/pdf/2012.03500)
 
 - **End-to-End Adversarial Text-to-Speech**(2020), Jeff Donahue et al. [[pdf]](https://arxiv.org/pdf/2006.03575)
 
