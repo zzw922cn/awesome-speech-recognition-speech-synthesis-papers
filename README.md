@@ -375,6 +375,10 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesi**(2020), Eric Battenberg et al. [[pdf]](https://arxiv.org/pdf/1910.10288)
 
+- **RobuTrans: A Robust Transformer-Based Text-to-Speech Model**(2020), Naihan Li et al. [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/6337)
+
+- **Text-Independent Speaker Verification with Dual Attention Network**(2020), Jingyu Li et al. [[pdf]](https://arxiv.org/pdf/2009.05485)
+
 - **WaveGrad: Estimating Gradients for Waveform Generation**(2020), Nanxin Chen et al. [[pdf]](https://arxiv.org/pdf/2009.00713)
 
 
