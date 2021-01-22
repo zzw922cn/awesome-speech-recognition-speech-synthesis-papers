@@ -263,7 +263,13 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Unsupervised End-to-End Learning of Discrete Linguistic Units for Voice Conversion**(2019), Andy T. Liu et al. [[pdf]](https://arxiv.org/pdf/1905.11563)
 
+- **Attention-Based Speaker Embeddings for One-Shot Voice Conversion**(2020), Tatsuma Ishihara et al. [[pdf]](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-7-8.pdf)
+
 - **F0-consistent many-to-many non-parallel voice conversion via conditional autoencoder**(2020), Kaizhi Qian et al. [[pdf]](https://arxiv.org/pdf/2004.07370)
+
+- **Recognition-Synthesis Based Non-Parallel Voice Conversion with Adversarial Learning**(2020), Jing-Xuan Zhang et al. [[pdf]](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-7-1.pdf)
+
+
 
 
 ### Speech Synthesis
