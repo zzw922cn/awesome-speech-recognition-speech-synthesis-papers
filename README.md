@@ -429,6 +429,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **ByteSing- A Chinese Singing Voice Synthesis System Using Duration Allocated Encoder-Decoder Acoustic Models and WaveRNN Vocoders**(2020), Yu Gu et al. [[pdf]](https://arxiv.org/pdf/2004.11012)
 
+- **HiFiSinger: Towards High-Fidelity Neural Singing Voice Synthesis**(2020), Jiawei Chen et al. [[pdf]](https://arxiv.org/pdf/2009.01776)
+
 - **Jukebox: A Generative Model for Music**(2020), Prafulla Dhariwal et al. [[pdf]](https://arxiv.org/pdf/2005.00341)
 
 
