@@ -433,6 +433,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Jukebox: A Generative Model for Music**(2020), Prafulla Dhariwal et al. [[pdf]](https://arxiv.org/pdf/2005.00341)
 
+- **PeriodNet: A non-autoregressive waveform generation model with a structure separating periodic and aperiodic components**(2021), Yukiya Hono et al. [[pdf]](https://arxiv.org/pdf/2102.07786)
+
 
 ### Interesting papers
 - **The Reversible Residual Network: Backpropagation Without Storing Activations**(2017), Aidan N. Gomez et al. [[pdf]](https://arxiv.org/pdf/1707.04585)
