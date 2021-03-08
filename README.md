@@ -269,7 +269,7 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Recognition-Synthesis Based Non-Parallel Voice Conversion with Adversarial Learning**(2020), Jing-Xuan Zhang et al. [[pdf]](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-7-1.pdf)
 
-
+- **crank: An Open-Source Software for Nonparallel Voice Conversion Based on Vector-Quantized Variational Autoencoder**(2021), Kazuhiro Kobayashi et al. [[pdf]](https://arxiv.org/pdf/2103.02858)
 
 
 ### Speech Synthesis
@@ -387,6 +387,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **WaveGrad: Estimating Gradients for Waveform Generation**(2020), Nanxin Chen et al. [[pdf]](https://arxiv.org/pdf/2009.00713)
 
+- **AdaSpeech: Adaptive Text to Speech for Custom Voice**(2021), Mingjian Chen et al. [[pdf]](https://arxiv.org/pdf/2103.00993)
+
 - **Triple M: A Practical Neural Text-to-speech System With Multi-guidance Attention And Multi-band Multi-time Lpcnet**(2021), Shilun Lin et al. [[pdf]](https://arxiv.org/pdf/2102.00247)
 
 
@@ -450,6 +452,3 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 - **Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks**(2019), Guanzhong Tian et al. [[pdf]](https://arxiv.org/pdf/1905.11142)
 
 - **Attention is Not Only a Weight: Analyzing Transformers with Vector Norms**(2020), Goro Kobayashi et al. [[pdf]](https://arxiv.org/pdf/2004.10102)
-
-## Contact Me
-For any questions, welcome to send email to :**zzw922cn@gmail.com**. Thanks!
