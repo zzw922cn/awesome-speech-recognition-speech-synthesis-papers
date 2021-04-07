@@ -273,6 +273,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **crank: An Open-Source Software for Nonparallel Voice Conversion Based on Vector-Quantized Variational Autoencoder**(2021), Kazuhiro Kobayashi et al. [[pdf]](https://arxiv.org/pdf/2103.02858)
 
+- **CVC: Contrastive Learning for Non-parallel Voice Conversion**(2021), Tingle Li et al. [[pdf]](https://arxiv.org/pdf/2011.00782.pdf)
+
 
 ### Speech Synthesis
 - **Signal estimation from modified short-time Fourier transform**(1993), Daniel W. Griffin et al. [[pdf]](https://pdfs.semanticscholar.org/ade8/d1511a61d78948bb0d43e207593389935421.pdf?\_ga=2.229355228.1725061846.1494658711-1308334183.1494658711)
