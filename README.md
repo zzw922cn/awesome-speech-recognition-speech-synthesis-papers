@@ -393,6 +393,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **AdaSpeech: Adaptive Text to Speech for Custom Voice**(2021), Mingjian Chen et al. [[pdf]](https://arxiv.org/pdf/2103.00993)
 
+- **PnG BERT: Augmented BERT on Phonemes and Graphemes for Neural TTS**(2021), Ye Jia et al. [[pdf]](https://arxiv.org/pdf/2103.15060.pdf)
+
 - **Triple M: A Practical Neural Text-to-speech System With Multi-guidance Attention And Multi-band Multi-time Lpcnet**(2021), Shilun Lin et al. [[pdf]](https://arxiv.org/pdf/2102.00247)
 
 
