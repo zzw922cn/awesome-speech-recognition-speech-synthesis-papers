@@ -397,6 +397,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Triple M: A Practical Neural Text-to-speech System With Multi-guidance Attention And Multi-band Multi-time Lpcnet**(2021), Shilun Lin et al. [[pdf]](https://arxiv.org/pdf/2102.00247)
 
+- **Towards Multi-Scale Style Control for Expressive Speech Synthesis**(2021), Xiang Li et al. [[pdf]](https://arxiv.org/pdf/2104.03521)
+
 
 ### Language Modelling
 - **Class-Based n-gram Models of Natural Language**(1992), Peter F. Brown et al. [[pdf]](https://pdfs.semanticscholar.org/ce84/cf6160ab221d5ee67afad046d2b89560749d.pdf?\_ga=2.197138663.999867306.1494660639-1308334183.1494658711)
