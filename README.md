@@ -207,6 +207,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Hybrid CTC-Attention based End-to-End Speech Recognition using Subword Units**(2018), Zhangyu Xiao et al. [[pdf]](https://arxiv.org/abs/1807.04978)
 
+- **SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition**, Daniel S. Park et al. [[pdf]](https://arxiv.org/pdf/1904.08779.pdf)
+
 - **Improved Noisy Student Training for Automatic Speech Recognition** (2020), Daniel S. Park, et al. [[pdf]](https://arxiv.org/abs/2005.09629)
 
 - **ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context** (2020),  Wei Han, et al. [[pdf]](https://arxiv.org/abs/2005.03191)
