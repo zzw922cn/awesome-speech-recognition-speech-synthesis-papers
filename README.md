@@ -421,6 +421,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **On the State of the Art of Evaluation in Neural Language Models**(2016), G Melis et al. [[pdf]](https://arxiv.org/pdf/1707.05589)
 
+- **Pay Less Attention with Lightweight and Dynamic Convolutions**(2019), Felix Wu et al.[[pdf]](https://arxiv.org/pdf/1901.10430)
+
 
 ### Confidence Estimates
 - **Estimating Confidence using Word Lattices**(1997), T. Kemp et al. [[pdf]](http://www.cs.cmu.edu/~tschaaf/MyPublications/1997-eurospeech-kemp-schaaf.pdf)
