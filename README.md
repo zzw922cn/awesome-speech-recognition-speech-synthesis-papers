@@ -387,6 +387,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesi**(2020), Eric Battenberg et al. [[pdf]](https://arxiv.org/pdf/1910.10288)
 
+- **Parallel Tacotron: Non-Autoregressive and Controllable TTS**(2020), Isaac Elias et al. [[pdf]](https://arxiv.org/pdf/2010.11439)
+
 - **RobuTrans: A Robust Transformer-Based Text-to-Speech Model**(2020), Naihan Li et al. [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/6337)
 
 - **Text-Independent Speaker Verification with Dual Attention Network**(2020), Jingyu Li et al. [[pdf]](https://arxiv.org/pdf/2009.05485)
@@ -396,6 +398,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 - **AdaSpeech: Adaptive Text to Speech for Custom Voice**(2021), Mingjian Chen et al. [[pdf]](https://arxiv.org/pdf/2103.00993)
 
 - **PnG BERT: Augmented BERT on Phonemes and Graphemes for Neural TTS**(2021), Ye Jia et al. [[pdf]](https://arxiv.org/pdf/2103.15060.pdf)
+
+- **Parallel Tacotron 2: A Non-Autoregressive Neural TTS Model with Differentiable Duration Modeling**(2021), Isaac Elias et al. [[pdf]](https://arxiv.org/pdf/2103.14574)
 
 - **Triple M: A Practical Neural Text-to-speech System With Multi-guidance Attention And Multi-band Multi-time Lpcnet**(2021), Shilun Lin et al. [[pdf]](https://arxiv.org/pdf/2102.00247)
 
