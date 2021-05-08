@@ -213,6 +213,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context** (2020),  Wei Han, et al. [[pdf]](https://arxiv.org/abs/2005.03191)
 
+- **Conformer: Convolution-augmented Transformer for Speech Recognition** (2020), Anmol Gulati, et al. [[pdf]](https://arxiv.org/pdf/2005.08100v1.pdf)
+
 - **MixSpeech: Data Augmentation for Low-resource Automatic Speech Recognition**(2021), Linghui Meng et al. [[pdf]](https://arxiv.org/pdf/2102.12664)
 
 
