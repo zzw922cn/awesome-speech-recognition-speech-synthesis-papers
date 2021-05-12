@@ -213,6 +213,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context** (2020),  Wei Han, et al. [[pdf]](https://arxiv.org/abs/2005.03191)
 
+- **Conformer: Convolution-augmented Transformer for Speech Recognition** (2020), Anmol Gulati, et al. [[pdf]](https://arxiv.org/pdf/2005.08100v1.pdf)
+
 - **MixSpeech: Data Augmentation for Low-resource Automatic Speech Recognition**(2021), Linghui Meng et al. [[pdf]](https://arxiv.org/pdf/2102.12664)
 
 
@@ -442,6 +444,12 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 - **Bi-Directional Lattice Recurrent Neural Networks for Confidence Estimation**(2018), Q. Li et al. [[pdf]](https://arxiv.org/pdf/1810.13024.pdf)
 
 - **Confidence Estimation for Black Box Automatic Speech Recognition Systems Using Lattice Recurrent Neural Networks**(2020), A. Kastanos et al. [[pdf]](https://arxiv.org/pdf/1910.11933.pdf)
+
+- **CONFIDENCE ESTIMATION FOR ATTENTION-BASED SEQUENCE-TO-SEQUENCE MODELS FOR SPEECH RECOGNITION**(2020), Qiujia Li et al. [[pdf]](https://arxiv.org/pdf/2010.11428v2.pdf)
+
+- **Residual Energy-Based Models for End-to-End Speech Recognition**(2021), Qiujia Li et al. [[pdf]](https://arxiv.org/pdf/2103.14152v1.pdf)
+
+- **Multi-Task Learning for End-to-End ASR Word and Utterance Confidence with Deletion Prediction**(2021), David Qiu et al. [[pdf]](https://arxiv.org/pdf/2104.12870.pdf)
 
 
 ### Music Modelling
