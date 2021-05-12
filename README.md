@@ -397,6 +397,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **AdaSpeech: Adaptive Text to Speech for Custom Voice**(2021), Mingjian Chen et al. [[pdf]](https://arxiv.org/pdf/2103.00993)
 
+- **Hierarchical Prosody Modeling for Non-Autoregressive Speech Synthesis**(2021), Chung-Ming Chien et al. [[pdf]](https://arxiv.org/pdf/2011.06465.pdf)
+
 - **PnG BERT: Augmented BERT on Phonemes and Graphemes for Neural TTS**(2021), Ye Jia et al. [[pdf]](https://arxiv.org/pdf/2103.15060.pdf)
 
 - **Parallel Tacotron 2: A Non-Autoregressive Neural TTS Model with Differentiable Duration Modeling**(2021), Isaac Elias et al. [[pdf]](https://arxiv.org/pdf/2103.14574)
