@@ -399,7 +399,15 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **AdaSpeech: Adaptive Text to Speech for Custom Voice**(2021), Mingjian Chen et al. [[pdf]](https://arxiv.org/pdf/2103.00993)
 
+- **DiffWave: A Versatile Diffusion Model for Audio Synthesis**(2021), Zhifeng Kong et al. [[pdf]](https://arxiv.org/pdf/2009.09761)
+
+- **Diff-TTS: A Denoising Diffusion Model for Text-to-Speech**(2021), Myeonghun Jeong et al. [[pdf]](https://arxiv.org/pdf/2104.01409.pdf)
+
+- **Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech**(2021), Vadim Popov et al. [[pdf]](https://arxiv.org/pdf/2105.06337.pdf)
+
 - **Hierarchical Prosody Modeling for Non-Autoregressive Speech Synthesis**(2021), Chung-Ming Chien et al. [[pdf]](https://arxiv.org/pdf/2011.06465.pdf)
+
+- **ItoˆTTS and ItoˆWave: Linear Stochastic Differential Equation Is All You Need For Audio Generation**(2021), Shoule Wu et al. [[pdf]](https://arxiv.org/pdf/2105.07583.pdf)
 
 - **PnG BERT: Augmented BERT on Phonemes and Graphemes for Neural TTS**(2021), Ye Jia et al. [[pdf]](https://arxiv.org/pdf/2103.15060.pdf)
 
