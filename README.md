@@ -405,6 +405,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech**(2021), Vadim Popov et al. [[pdf]](https://arxiv.org/pdf/2105.06337.pdf)
 
+- **High-fidelity and low-latency universal neural vocoder based on multiband WaveRNN with data-driven linear prediction for discrete waveform modeling**(2021), Patrick Lumban Tobing et al. [[pdf]](https://arxiv.org/pdf/2105.09856.pdf)
+
 - **Hierarchical Prosody Modeling for Non-Autoregressive Speech Synthesis**(2021), Chung-Ming Chien et al. [[pdf]](https://arxiv.org/pdf/2011.06465.pdf)
 
 - **ItoˆTTS and ItoˆWave: Linear Stochastic Differential Equation Is All You Need For Audio Generation**(2021), Shoule Wu et al. [[pdf]](https://arxiv.org/pdf/2105.07583.pdf)
