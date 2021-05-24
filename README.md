@@ -475,6 +475,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 ### Interesting papers
 - **The Reversible Residual Network: Backpropagation Without Storing Activations**(2017), Aidan N. Gomez et al. [[pdf]](https://arxiv.org/pdf/1707.04585)
 
+- **Soft-DTW: a Differentiable Loss Function for Time-Series**(2018), Marco Cuturi et al. [[pdf]](https://arxiv.org/pdf/1703.01541.pdf)
+
 - **FlowSeq: Non-Autoregressive Conditional Sequence Generation with Generative Flow**(2019), Xuezhe Ma et al. [[pdf]](https://arxiv.org/pdf/1909.02480)
 
 - **Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks**(2019), Santiago Pascual et al. [[pdf]](https://arxiv.org/pdf/1904.03416.pdf)
