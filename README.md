@@ -217,6 +217,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **MixSpeech: Data Augmentation for Low-resource Automatic Speech Recognition**(2021), Linghui Meng et al. [[pdf]](https://arxiv.org/pdf/2102.12664)
 
+- **Why does CTC result in peaky behavior?**(2021), Albert Zeyer et al. [[pdf]](https://arxiv.org/pdf/2105.14849.pdf)
+
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
