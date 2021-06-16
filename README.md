@@ -281,6 +281,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **CVC: Contrastive Learning for Non-parallel Voice Conversion**(2021), Tingle Li et al. [[pdf]](https://arxiv.org/pdf/2011.00782.pdf)
 
+- **NoiseVC: Towards High Quality Zero-Shot Voice Conversion**(2021), Shijun Wang et al. [[pdf]](https://arxiv.org/pdf/2104.06074.pdf)
+
 
 ### Speech Synthesis
 - **Signal estimation from modified short-time Fourier transform**(1993), Daniel W. Griffin et al. [[pdf]](https://pdfs.semanticscholar.org/ade8/d1511a61d78948bb0d43e207593389935421.pdf?\_ga=2.229355228.1725061846.1494658711-1308334183.1494658711)
@@ -404,6 +406,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 - **DiffWave: A Versatile Diffusion Model for Audio Synthesis**(2021), Zhifeng Kong et al. [[pdf]](https://arxiv.org/pdf/2009.09761)
 
 - **Diff-TTS: A Denoising Diffusion Model for Text-to-Speech**(2021), Myeonghun Jeong et al. [[pdf]](https://arxiv.org/pdf/2104.01409.pdf)
+
+- **Fre-GAN: Adversarial Frequency-consistent Audio Synthesis**(2021), Ji-Hoon Kim et al. [[pdf]](https://arxiv.org/pdf/2106.02297.pdf)
 
 - **Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech**(2021), Vadim Popov et al. [[pdf]](https://arxiv.org/pdf/2105.06337.pdf)
 
