@@ -423,6 +423,9 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Triple M: A Practical Neural Text-to-speech System With Multi-guidance Attention And Multi-band Multi-time Lpcnet**(2021), Shilun Lin et al. [[pdf]](https://arxiv.org/pdf/2102.00247)
 
+- **TalkNet 2: Non-Autoregressive Depth-Wise Separable Convolutional Model for Speech Synthesis with Explicit Pitch and Duration Prediction**(2021), Stanislav Beliaev et al. [[pdf]](https://arxiv.org/pdf/2104.08189)
+<sub><sup>TalkNet2 has minor difference from TalkNet,so I don't include TalkNet here.</sup></sub>
+
 - **Towards Multi-Scale Style Control for Expressive Speech Synthesis**(2021), Xiang Li et al. [[pdf]](https://arxiv.org/pdf/2104.03521)
 
 
