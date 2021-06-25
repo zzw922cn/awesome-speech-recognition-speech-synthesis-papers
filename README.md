@@ -353,6 +353,9 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Parallel Neural Text-to-Speech**(2019), Kainan Peng et al. [[pdf]](https://arxiv.org/pdf/1905.08459.pdf)
 
+- **Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram**(2019), Ryuichi Yamamoto et al. [[pdf]](https://arxiv.org/pdf/1910.11480)
+<sub><sup>it comes out the same time as MelGAN, while no one refers to each other...Besides, I think the gaussian noise is unnecessary, since melspec has very strong information.</sup></sub>
+
 - **Problem-Agnostic Speech Embeddings for Multi-Speaker Text-to-Speech with SampleRNN**(2019), David Alvarez et al. [[pdf]](https://arxiv.org/pdf/1906.00733.pdf)
 
 - **Robust Sequence-to-Sequence Acoustic Modeling with Stepwise Monotonic Attention for Neural TTS**(2019), Mutian He et al. [[pdf]](https://arxiv.org/pdf/1906.00672.pdf)
