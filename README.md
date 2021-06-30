@@ -412,6 +412,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Fre-GAN: Adversarial Frequency-consistent Audio Synthesis**(2021), Ji-Hoon Kim et al. [[pdf]](https://arxiv.org/pdf/2106.02297.pdf)
 
+- **Full-band LPCNet: A real-time neural vocoder for 48 kHz audio with a CPU**(2021), Keisuke Matsubara et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9455356)
+
 - **Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech**(2021), Vadim Popov et al. [[pdf]](https://arxiv.org/pdf/2105.06337.pdf)
 
 - **High-fidelity and low-latency universal neural vocoder based on multiband WaveRNN with data-driven linear prediction for discrete waveform modeling**(2021), Patrick Lumban Tobing et al. [[pdf]](https://arxiv.org/pdf/2105.09856.pdf)
