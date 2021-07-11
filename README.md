@@ -428,6 +428,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Parallel Tacotron 2: A Non-Autoregressive Neural TTS Model with Differentiable Duration Modeling**(2021), Isaac Elias et al. [[pdf]](https://arxiv.org/pdf/2103.14574)
 
+- **Transformer-based Acoustic Modeling for Streaming Speech Synthesis**(2021), Chunyang Wu et al. [[pdf]](https://research.fb.com/wp-content/uploads/2021/06/Transformer-based-Acoustic-Modeling-for-Streaming-Speech-Synthesis.pdf)
+
 - **Triple M: A Practical Neural Text-to-speech System With Multi-guidance Attention And Multi-band Multi-time Lpcnet**(2021), Shilun Lin et al. [[pdf]](https://arxiv.org/pdf/2102.00247)
 
 - **TalkNet 2: Non-Autoregressive Depth-Wise Separable Convolutional Model for Speech Synthesis with Explicit Pitch and Duration Prediction**(2021), Stanislav Beliaev et al. [[pdf]](https://arxiv.org/pdf/2104.08189)
