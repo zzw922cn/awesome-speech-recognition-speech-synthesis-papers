@@ -396,6 +396,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Location-Relative Attention Mechanisms For Robust Long-Form Speech Synthesi**(2020), Eric Battenberg et al. [[pdf]](https://arxiv.org/pdf/1910.10288)
 
+- **MultiSpeech: Multi-Speaker Text to Speech with Transformer**(2020), Mingjian Chen et al. [[pdf]](https://arxiv.org/pdf/2006.04664.pdf)
+
 - **Parallel Tacotron: Non-Autoregressive and Controllable TTS**(2020), Isaac Elias et al. [[pdf]](https://arxiv.org/pdf/2010.11439)
 
 - **RobuTrans: A Robust Transformer-Based Text-to-Speech Model**(2020), Naihan Li et al. [[pdf]](https://aaai.org/ojs/index.php/AAAI/article/view/6337)
