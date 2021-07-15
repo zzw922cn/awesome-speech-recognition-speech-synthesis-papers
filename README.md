@@ -139,8 +139,6 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Wav2Letter: an End-to-End ConvNet-based Speech Recognition System**(2016), Ronan Collobert et al. [[pdf]](https://arxiv.org/pdf/1609.03193.pdf)
 
-- **WaveNet: A Generative Model for Raw Audio**(2016), Aäron van den Oord et al. [[pdf]](https://arxiv.org/pdf/1609.03499.pdf)
-
 - **Attentive Convolutional Neural Network based Speech Emotion Recognition: A Study on the Impact of Input Features, Signal Length, and Acted Speech**(2017), Michael Neumann et al. [[pdf]](https://arxiv.org/pdf/1706.00612)
 
 - **An enhanced automatic speech recognition system for Arabic**(2017), Mohamed Amine Menacer et al. [[pdf]](https://pdfs.semanticscholar.org/788e/b75befd9c2597f64e072cb2e86f9e7a877e4.pdf?\_ga=1.188540654.730356906.1493526584)
@@ -209,11 +207,13 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition**, Daniel S. Park et al. [[pdf]](https://arxiv.org/pdf/1904.08779.pdf)
 
-- **Improved Noisy Student Training for Automatic Speech Recognition** (2020), Daniel S. Park, et al. [[pdf]](https://arxiv.org/abs/2005.09629)
+- **Improved Noisy Student Training for Automatic Speech Recognition**(2020), Daniel S. Park, et al. [[pdf]](https://arxiv.org/abs/2005.09629)
 
 - **ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context** (2020),  Wei Han, et al. [[pdf]](https://arxiv.org/abs/2005.03191)
 
-- **Conformer: Convolution-augmented Transformer for Speech Recognition** (2020), Anmol Gulati, et al. [[pdf]](https://arxiv.org/pdf/2005.08100v1.pdf)
+- **Conformer: Convolution-augmented Transformer for Speech Recognition**(2020), Anmol Gulati, et al. [[pdf]](https://arxiv.org/pdf/2005.08100v1.pdf)
+
+- **On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition**(2020), Jinyu Li et al. [[pdf]](https://arxiv.org/pdf/2005.14327)
 
 - **MixSpeech: Data Augmentation for Low-resource Automatic Speech Recognition**(2021), Linghui Meng et al. [[pdf]](https://arxiv.org/pdf/2102.12664)
 
