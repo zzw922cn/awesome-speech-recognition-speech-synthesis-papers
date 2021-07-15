@@ -217,6 +217,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **MixSpeech: Data Augmentation for Low-resource Automatic Speech Recognition**(2021), Linghui Meng et al. [[pdf]](https://arxiv.org/pdf/2102.12664)
 
+- **Multi-Encoder Learning and Stream Fusion for Transformer-Based End-to-End Automatic Speech Recognition**(2021), Timo Lohrenz et al. [[pdf]](https://arxiv.org/pdf/2104.00120.pdf)
+
 - **Why does CTC result in peaky behavior?**(2021), Albert Zeyer et al. [[pdf]](https://arxiv.org/pdf/2105.14849.pdf)
 
 
@@ -490,6 +492,8 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 - **HiFiSinger: Towards High-Fidelity Neural Singing Voice Synthesis**(2020), Jiawei Chen et al. [[pdf]](https://arxiv.org/pdf/2009.01776)
 
 - **Jukebox: A Generative Model for Music**(2020), Prafulla Dhariwal et al. [[pdf]](https://arxiv.org/pdf/2005.00341)
+
+- **MusicBERT: Symbolic Music Understanding with Large-Scale Pre-Training**(2021), Mingliang Zeng et al. [[pdf]](https://arxiv.org/pdf/2106.05630.pdf)
 
 - **PeriodNet: A non-autoregressive waveform generation model with a structure separating periodic and aperiodic components**(2021), Yukiya Hono et al. [[pdf]](https://arxiv.org/pdf/2102.07786)
 
