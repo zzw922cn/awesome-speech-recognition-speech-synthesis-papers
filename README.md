@@ -493,7 +493,11 @@ I'm a research engineer doing speech synthesis at Tencent. I'm interested in spe
 
 - **Jukebox: A Generative Model for Music**(2020), Prafulla Dhariwal et al. [[pdf]](https://arxiv.org/pdf/2005.00341)
 
+- **MLP Singer: Towards Rapid Parallel Korean Singing Voice Synthesis**(2021), Jaesung Tae et al. [[pdf]](https://arxiv.org/pdf/2106.07886.pdf)
+
 - **MusicBERT: Symbolic Music Understanding with Large-Scale Pre-Training**(2021), Mingliang Zeng et al. [[pdf]](https://arxiv.org/pdf/2106.05630.pdf)
+
+- **N-Singer: A Non-Autoregressive Korean Singing Voice Synthesis System for Pronunciation Enhancement**(2021), Gyeong-Hoon Lee et al. [[pdf]](https://arxiv.org/pdf/2106.15205.pdf)
 
 - **PeriodNet: A non-autoregressive waveform generation model with a structure separating periodic and aperiodic components**(2021), Yukiya Hono et al. [[pdf]](https://arxiv.org/pdf/2102.07786)
 
