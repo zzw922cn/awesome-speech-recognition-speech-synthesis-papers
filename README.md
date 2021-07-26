@@ -2,10 +2,10 @@
 I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group. I worked on automatic speech recognition, expressive speech synthesis, few-shot speech synthesis, voice conversion, singing voice synthesis and few-shot singing voice synthesis. I collect some papers which I think very interesting in speech field, I hope this project will help you. If you have any questions, welcome to send email to me: zzw922cn@gmail.com Thank you for your stars!
 
 ## Paper List
-- [Automatic Speech Recognition](#Automatic-Speech-Recognition)
+- [Automatic Speech Recognition(ASR)](#Automatic-Speech-Recognition)
 - [Speaker Verification](#Speaker-Verification)
-- [Voice Conversion](#Voice-Conversion)
-- [Speech Synthesis](#Speech-Synthesis)
+- [Voice Conversion(VC)](#Voice-Conversion)
+- [Speech Synthesis(TTS)](#Speech-Synthesis)
 - [Language Modelling](#Language-Modelling)
 - [Confidence Estimates](#Confidence-Estimates)
 - [Music Modelling](#Music-Modelling)
@@ -284,6 +284,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 - **CVC: Contrastive Learning for Non-parallel Voice Conversion**(2021), Tingle Li et al. [[pdf]](https://arxiv.org/pdf/2011.00782.pdf)
 
 - **NoiseVC: Towards High Quality Zero-Shot Voice Conversion**(2021), Shijun Wang et al. [[pdf]](https://arxiv.org/pdf/2104.06074.pdf)
+
+- **StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion**(2021), Yinghao Aaron Li et al. [[pdf]](https://arxiv.org/pdf/2107.10394.pdf)
 
 
 ### Speech Synthesis
