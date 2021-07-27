@@ -503,6 +503,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **PeriodNet: A non-autoregressive waveform generation model with a structure separating periodic and aperiodic components**(2021), Yukiya Hono et al. [[pdf]](https://arxiv.org/pdf/2102.07786)
 
+- **Sequence-to-Sequence Piano Transcription with Transformers**(2021), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/pdf/2107.09142.pdf)
+
 
 ### Interesting papers
 - **The Reversible Residual Network: Backpropagation Without Storing Activations**(2017), Aidan N. Gomez et al. [[pdf]](https://arxiv.org/pdf/1707.04585)
