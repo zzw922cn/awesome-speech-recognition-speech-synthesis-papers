@@ -285,6 +285,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **NoiseVC: Towards High Quality Zero-Shot Voice Conversion**(2021), Shijun Wang et al. [[pdf]](https://arxiv.org/pdf/2104.06074.pdf)
 
+- **On Prosody Modeling for ASR+TTS based Voice Conversion**(2021), Wen-Chin Huang et al. [[pdf]](https://arxiv.org/pdf/2107.09477.pdf)
+
 - **StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion**(2021), Yinghao Aaron Li et al. [[pdf]](https://arxiv.org/pdf/2107.10394.pdf)
 
 
