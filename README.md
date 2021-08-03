@@ -269,7 +269,11 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Phonetic posteriorgrams for many-to-one voice conversion without parallel data training**(2016), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7552917)
 
+- **StarGAN-VC: Non-parallel many-to-many voice conversion with star generative adversarial networks**(2018), Hirokazu Kameoka et al. [[pdf]](https://arxiv.org/pdf/1806.02169)
+
 - **AutoVC: Zero-Shot Voice Style Transfer with Only Autoencoder Loss**(2019), Kaizhi Qian et al. [[pdf]](http://proceedings.mlr.press/v97/qian19c.html)
+
+- **StarGAN-VC2: Rethinking Conditional Methods for StarGAN-Based Voice Conversion**(2019), Takuhiro Kaneko et al. [[pdf]](https://arxiv.org/pdf/1907.12279)
 
 - **Unsupervised End-to-End Learning of Discrete Linguistic Units for Voice Conversion**(2019), Andy T. Liu et al. [[pdf]](https://arxiv.org/pdf/1905.11563)
 
@@ -278,6 +282,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 - **F0-consistent many-to-many non-parallel voice conversion via conditional autoencoder**(2020), Kaizhi Qian et al. [[pdf]](https://arxiv.org/pdf/2004.07370)
 
 - **Recognition-Synthesis Based Non-Parallel Voice Conversion with Adversarial Learning**(2020), Jing-Xuan Zhang et al. [[pdf]](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-7-1.pdf)
+
+- **An Improved StarGAN for Emotional Voice Conversion: Enhancing Voice Quality and Data Augmentation**(2021), Xiangheng He et al. [[pdf]](https://arxiv.org/pdf/2107.08361)
 
 - **crank: An Open-Source Software for Nonparallel Voice Conversion Based on Vector-Quantized Variational Autoencoder**(2021), Kazuhiro Kobayashi et al. [[pdf]](https://arxiv.org/pdf/2103.02858)
 
@@ -336,6 +342,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 - **Learning latent representations for style control and transfer in end-to-end speech synthesis**(2018), Ya-Jie Zhang et al. [[pdf]](https://arxiv.org/pdf/1812.04342)
 
 - **Neural Voice Cloning with a Few Samples**(2018), Sercan O. Arık et al. [[pdf]](https://arxiv.org/pdf/1802.06006.pdf)
+
+- **Predicting Expressive Speaking Style From Text In End-To-End Speech Synthesis**(2018), Daisy Stanton et al. [[pdf]](https://arxiv.org/pdf/1808.01410)
 
 - **Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis**(2018), Y Wang et al. [[pdf]](https://arxiv.org/pdf/1803.09017.pdf)
 
