@@ -424,6 +424,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **A Survey on Neural Speech Synthesis**(2021), Xu Tan et al. [[pdf]](https://arxiv.org/pdf/2106.15561.pdf)
 
+- **A Streamwise GAN Vocoder for Wideband Speech Coding at Very Low Bit Rate**(2021), Ahmed Mustafa et al. [[pdf]](https://arxiv.org/pdf/2108.04051.pdf)
+
 - **DiffWave: A Versatile Diffusion Model for Audio Synthesis**(2021), Zhifeng Kong et al. [[pdf]](https://arxiv.org/pdf/2009.09761)
 
 - **Diff-TTS: A Denoising Diffusion Model for Text-to-Speech**(2021), Myeonghun Jeong et al. [[pdf]](https://arxiv.org/pdf/2104.01409.pdf)
