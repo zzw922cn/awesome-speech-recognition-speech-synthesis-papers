@@ -219,6 +219,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Multi-Encoder Learning and Stream Fusion for Transformer-Based End-to-End Automatic Speech Recognition**(2021), Timo Lohrenz et al. [[pdf]](https://arxiv.org/pdf/2104.00120.pdf)
 
+- **The History of Speech Recognition to the Year 2030**(2021), Awni Hannun et al. [[pdf]](https://arxiv.org/pdf/2108.00084.pdf)
+
 - **Why does CTC result in peaky behavior?**(2021), Albert Zeyer et al. [[pdf]](https://arxiv.org/pdf/2105.14849.pdf)
 
 
