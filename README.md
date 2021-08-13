@@ -504,6 +504,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 ### Music Modelling
 - **Onsets and Frames: Dual-Objective Piano Transcription**(2017), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/abs/1710.11153)
 
+- **Unsupervised Singing Voice Conversion**(2019), Eliya Nachmani et al. [[pdf]](https://research.fb.com/wp-content/uploads/2019/09/Unsupervised-Singing-Voice-Conversion-v2.pdf)
+
 - **ByteSing- A Chinese Singing Voice Synthesis System Using Duration Allocated Encoder-Decoder Acoustic Models and WaveRNN Vocoders**(2020), Yu Gu et al. [[pdf]](https://arxiv.org/pdf/2004.11012)
 
 - **DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System**(2020), Liqiang Zhang et al. [[pdf]](https://arxiv.org/pdf/2008.03009.pdf)
