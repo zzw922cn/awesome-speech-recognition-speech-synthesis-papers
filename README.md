@@ -281,6 +281,7 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Attention-Based Speaker Embeddings for One-Shot Voice Conversion**(2020), Tatsuma Ishihara et al. [[pdf]](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-7-8.pdf)
 
+
 - **F0-consistent many-to-many non-parallel voice conversion via conditional autoencoder**(2020), Kaizhi Qian et al. [[pdf]](https://arxiv.org/pdf/2004.07370)
 
 - **Recognition-Synthesis Based Non-Parallel Voice Conversion with Adversarial Learning**(2020), Jing-Xuan Zhang et al. [[pdf]](http://www.interspeech2020.org/uploadfile/pdf/Mon-2-7-1.pdf)
@@ -504,6 +505,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 - **Onsets and Frames: Dual-Objective Piano Transcription**(2017), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/abs/1710.11153)
 
 - **ByteSing- A Chinese Singing Voice Synthesis System Using Duration Allocated Encoder-Decoder Acoustic Models and WaveRNN Vocoders**(2020), Yu Gu et al. [[pdf]](https://arxiv.org/pdf/2004.11012)
+
+- **DurIAN-SC: Duration Informed Attention Network based Singing Voice Conversion System**(2020), Liqiang Zhang et al. [[pdf]](https://arxiv.org/pdf/2008.03009.pdf)
 
 - **HiFiSinger: Towards High-Fidelity Neural Singing Voice Synthesis**(2020), Jiawei Chen et al. [[pdf]](https://arxiv.org/pdf/2009.01776)
 
