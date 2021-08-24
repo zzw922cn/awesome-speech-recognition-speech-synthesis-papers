@@ -223,6 +223,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Why does CTC result in peaky behavior?**(2021), Albert Zeyer et al. [[pdf]](https://arxiv.org/pdf/2105.14849.pdf)
 
+- **Automatic Speech Recognition using limited vocabulary: A survey**(2021), JEAN LOUIS K. E. FENDJI et al. [[pdf]](https://arxiv.org/pdf/2108.10254.pdf)
+
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
