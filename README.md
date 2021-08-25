@@ -153,6 +153,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Attention-Based End-to-End Speech Recognition in Mandarin**(2017), C Shan et al. [[pdf]](https://arxiv.org/abs/1707.07167)
 
+- **Automatic Speech Recognition using limited vocabulary: A survey**(2021), JEAN LOUIS K. E. FENDJI et al. [[pdf]](https://arxiv.org/pdf/2108.10254.pdf)
+
 - **Building DNN acoustic models for large vocabulary speech recognition**(2017), Andrew L. Maas et al. [[pdf]](https://pdfs.semanticscholar.org/ff7b/9fbbbdc78d874fa93134d643a5a0295f648f.pdf?\_ga=1.242426692.730356906.1493526584)
 
 - **Direct Acoustics-to-Word Models for English Conversational Speech Recognition**(2017), Kartik Audhkhasi et al. [[pdf]](https://arxiv.org/pdf/1703.07754.pdf)
@@ -222,9 +224,6 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 - **The History of Speech Recognition to the Year 2030**(2021), Awni Hannun et al. [[pdf]](https://arxiv.org/pdf/2108.00084.pdf)
 
 - **Why does CTC result in peaky behavior?**(2021), Albert Zeyer et al. [[pdf]](https://arxiv.org/pdf/2105.14849.pdf)
-
-- **Automatic Speech Recognition using limited vocabulary: A survey**(2021), JEAN LOUIS K. E. FENDJI et al. [[pdf]](https://arxiv.org/pdf/2108.10254.pdf)
-
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
