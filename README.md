@@ -451,6 +451,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Neural HMMs are all you need (for high-quality attention-free TTS)**(2021), Shivam Mehta et al. [[pdf]](https://arxiv.org/pdf/2108.13320)
 
+- **One TTS Alignment To Rule Them All**(2021), Rohan Badlani et al. [[pdf]](https://arxiv.org/pdf/2108.10447.pdf)
+
 - **PnG BERT: Augmented BERT on Phonemes and Graphemes for Neural TTS**(2021), Ye Jia et al. [[pdf]](https://arxiv.org/pdf/2103.15060.pdf)
 
 - **Parallel Tacotron 2: A Non-Autoregressive Neural TTS Model with Differentiable Duration Modeling**(2021), Isaac Elias et al. [[pdf]](https://arxiv.org/pdf/2103.14574)
