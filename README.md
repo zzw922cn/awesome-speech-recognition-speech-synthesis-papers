@@ -453,6 +453,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **One TTS Alignment To Rule Them All**(2021), Rohan Badlani et al. [[pdf]](https://arxiv.org/pdf/2108.10447.pdf)
 
+- **KaraTuner: Towards end to end natural pitch correction for singing voice in karaoke**(2021), Xiaobin Zhuang et al. [[pdf]](https://arxiv.org/pdf/2110.09121)
+
 - **PnG BERT: Augmented BERT on Phonemes and Graphemes for Neural TTS**(2021), Ye Jia et al. [[pdf]](https://arxiv.org/pdf/2103.15060.pdf)
 
 - **Parallel Tacotron 2: A Non-Autoregressive Neural TTS Model with Differentiable Duration Modeling**(2021), Isaac Elias et al. [[pdf]](https://arxiv.org/pdf/2103.14574)
