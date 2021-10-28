@@ -298,6 +298,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **StarGANv2-VC: A Diverse, Unsupervised, Non-parallel Framework for Natural-Sounding Voice Conversion**(2021), Yinghao Aaron Li et al. [[pdf]](https://arxiv.org/pdf/2107.10394.pdf)
 
+- **Zero-shot Voice Conversion via Self-supervised Prosody Representation Learning**(2021), Shijun Wang et al. [[pdf]](https://arxiv.org/pdf/2110.14422)
+
 
 ### Speech Synthesis
 - **Signal estimation from modified short-time Fourier transform**(1993), Daniel W. Griffin et al. [[pdf]](https://pdfs.semanticscholar.org/ade8/d1511a61d78948bb0d43e207593389935421.pdf?\_ga=2.229355228.1725061846.1494658711-1308334183.1494658711)
