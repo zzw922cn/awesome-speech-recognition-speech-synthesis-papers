@@ -215,6 +215,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition**(2020), Jinyu Li et al. [[pdf]](https://arxiv.org/pdf/2005.14327)
 
+- **Efficient Training of Audio Transformers with Patchout**(2021), Khaled Koutini et al. [[pdf]](https://arxiv.org/pdf/2110.05069)
+
 - **MixSpeech: Data Augmentation for Low-resource Automatic Speech Recognition**(2021), Linghui Meng et al. [[pdf]](https://arxiv.org/pdf/2102.12664)
 
 - **Multi-Encoder Learning and Stream Fusion for Transformer-Based End-to-End Automatic Speech Recognition**(2021), Timo Lohrenz et al. [[pdf]](https://arxiv.org/pdf/2104.00120.pdf)
