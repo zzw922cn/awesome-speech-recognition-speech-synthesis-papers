@@ -223,6 +223,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **The History of Speech Recognition to the Year 2030**(2021), Awni Hannun et al. [[pdf]](https://arxiv.org/pdf/2108.00084.pdf)
 
+- **Voice Conversion Can Improve ASR in Very Low-Resource Settings**(2021), Matthew Baas et al. [[pdf]](https://arxiv.org/pdf/2111.02674) 
+
 - **Why does CTC result in peaky behavior?**(2021), Albert Zeyer et al. [[pdf]](https://arxiv.org/pdf/2105.14849.pdf)
 
 
