@@ -215,6 +215,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **On the Comparison of Popular End-to-End Models for Large Scale Speech Recognition**(2020), Jinyu Li et al. [[pdf]](https://arxiv.org/pdf/2005.14327)
 
+- **Augmented Contrastive Self-Supervised Learning for Audio Invariant Representations**(2021), Melikasadat Emami et al. [[pdf]](https://arxiv.org/pdf/2112.10950)
+
 - **Efficient Training of Audio Transformers with Patchout**(2021), Khaled Koutini et al. [[pdf]](https://arxiv.org/pdf/2110.05069)
 
 - **MixSpeech: Data Augmentation for Low-resource Automatic Speech Recognition**(2021), Linghui Meng et al. [[pdf]](https://arxiv.org/pdf/2102.12664)
@@ -455,6 +457,7 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **ItoˆTTS and ItoˆWave: Linear Stochastic Differential Equation Is All You Need For Audio Generation**(2021), Shoule Wu et al. [[pdf]](https://arxiv.org/pdf/2105.07583.pdf)
 
+
 - **Neural HMMs are all you need (for high-quality attention-free TTS)**(2021), Shivam Mehta et al. [[pdf]](https://arxiv.org/pdf/2108.13320)
 
 - **Neural Pitch-Shifting and Time-Stretching with Controllable LPCNet**(2021), Max Morrison et al. [[pdf]](https://arxiv.org/pdf/2110.02360)
@@ -533,6 +536,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 - **Jukebox: A Generative Model for Music**(2020), Prafulla Dhariwal et al. [[pdf]](https://arxiv.org/pdf/2005.00341)
 
 - **MLP Singer: Towards Rapid Parallel Korean Singing Voice Synthesis**(2021), Jaesung Tae et al. [[pdf]](https://arxiv.org/pdf/2106.07886.pdf)
+
+- **Multi-Singer: Fast Multi-Singer Singing Voice Vocoder With A Large-Scale Corpus**(2021), Rongjie Huang et al. [[pdf]](https://arxiv.org/pdf/2112.10358.pdf)
 
 - **MusicBERT: Symbolic Music Understanding with Large-Scale Pre-Training**(2021), Mingliang Zeng et al. [[pdf]](https://arxiv.org/pdf/2106.05630.pdf)
 
