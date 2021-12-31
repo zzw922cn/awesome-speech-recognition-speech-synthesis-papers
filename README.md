@@ -457,6 +457,7 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **ItoˆTTS and ItoˆWave: Linear Stochastic Differential Equation Is All You Need For Audio Generation**(2021), Shoule Wu et al. [[pdf]](https://arxiv.org/pdf/2105.07583.pdf)
 
+- **meta-voice: fast few-shot style transfer for expressive voice cloning using meta learning**(2021), Songxiang Liu et al. [[pdf]](https://arxiv.org/pdf/2111.07218.pdf)
 
 - **Neural HMMs are all you need (for high-quality attention-free TTS)**(2021), Shivam Mehta et al. [[pdf]](https://arxiv.org/pdf/2108.13320)
 
