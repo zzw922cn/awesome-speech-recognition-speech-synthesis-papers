@@ -209,6 +209,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations**(2019), Alexei Baevski et al. [[pdf]](https://arxiv.org/pdf/1910.05453)
 
+- **Effectiveness of self-supervised pre-training for speech recognition**(2020), Alexei Baevski et al. [[pdf]](https://arxiv.org/pdf/1911.03912)
+
 - **Improved Noisy Student Training for Automatic Speech Recognition**(2020), Daniel S. Park, et al. [[pdf]](https://arxiv.org/abs/2005.09629)
 
 - **ContextNet: Improving Convolutional Neural Networks for Automatic Speech Recognition with Global Context** (2020),  Wei Han, et al. [[pdf]](https://arxiv.org/abs/2005.03191)
@@ -481,6 +483,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 <sub><sup>TalkNet2 has minor difference from TalkNet,so I don't include TalkNet here.</sup></sub>
 
 - **Towards Multi-Scale Style Control for Expressive Speech Synthesis**(2021), Xiang Li et al. [[pdf]](https://arxiv.org/pdf/2104.03521)
+
+- **IQDUBBING: Prosody modeling based on discrete self-supervised speech representation for expressive voice conversion**(2022), Wendong Gan et al. [[pdf]](https://arxiv.org/pdf/2201.00269)
 
 
 ### Language Modelling
