@@ -205,7 +205,9 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Hybrid CTC-Attention based End-to-End Speech Recognition using Subword Units**(2018), Zhangyu Xiao et al. [[pdf]](https://arxiv.org/abs/1807.04978)
 
-- **SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition**, Daniel S. Park et al. [[pdf]](https://arxiv.org/pdf/1904.08779.pdf)
+- **SpecAugment: A Simple Data Augmentation Method for Automatic Speech Recognition**(2019), Daniel S. Park et al. [[pdf]](https://arxiv.org/pdf/1904.08779.pdf)
+
+- **vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations**(2019), Alexei Baevski et al. [[pdf]](https://arxiv.org/pdf/1910.05453)
 
 - **Improved Noisy Student Training for Automatic Speech Recognition**(2020), Daniel S. Park, et al. [[pdf]](https://arxiv.org/abs/2005.09629)
 
