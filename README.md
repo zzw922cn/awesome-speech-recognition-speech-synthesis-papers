@@ -449,6 +449,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Diff-TTS: A Denoising Diffusion Model for Text-to-Speech**(2021), Myeonghun Jeong et al. [[pdf]](https://arxiv.org/pdf/2104.01409.pdf)
 
+- **DelightfulTTS: The Microsoft Speech Synthesis System for Blizzard Challenge 2021**(2021), Yanqing Liu et al. [[pdf]](https://arxiv.org/pdf/2110.12612)
+
 - **Fre-GAN: Adversarial Frequency-consistent Audio Synthesis**(2021), Ji-Hoon Kim et al. [[pdf]](https://arxiv.org/pdf/2106.02297.pdf)
 
 - **Full-band LPCNet: A real-time neural vocoder for 48 kHz audio with a CPU**(2021), Keisuke Matsubara et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9455356)
@@ -484,7 +486,10 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Towards Multi-Scale Style Control for Expressive Speech Synthesis**(2021), Xiang Li et al. [[pdf]](https://arxiv.org/pdf/2104.03521)
 
+- **YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone**(2021), Edresson Casanova et al. [[pdf]](https://arxiv.org/pdf/2112.02418)
+
 - **IQDUBBING: Prosody modeling based on discrete self-supervised speech representation for expressive voice conversion**(2022), Wendong Gan et al. [[pdf]](https://arxiv.org/pdf/2201.00269)
+
 
 
 ### Language Modelling
