@@ -445,6 +445,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Cloning one’s voice using very limited data in the wild**(2021), Dongyang Dai et al. [[pdf]](https://arxiv.org/pdf/2110.03347.pdf)
 
+- **Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech**(2021), Jaehyeon Kim et al. [[pdf]](https://arxiv.org/pdf/2106.06103)
+
 - **DiffWave: A Versatile Diffusion Model for Audio Synthesis**(2021), Zhifeng Kong et al. [[pdf]](https://arxiv.org/pdf/2009.09761)
 
 - **Diff-TTS: A Denoising Diffusion Model for Text-to-Speech**(2021), Myeonghun Jeong et al. [[pdf]](https://arxiv.org/pdf/2104.01409.pdf)
