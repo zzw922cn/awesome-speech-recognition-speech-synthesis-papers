@@ -549,7 +549,7 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Jukebox: A Generative Model for Music**(2020), Prafulla Dhariwal et al. [[pdf]](https://arxiv.org/pdf/2005.00341)
 
-- DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism**(2021), Jinglin Liu et al. [[pdf]](https://arxiv.org/pdf/2105.02446)
+- **DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism**(2021), Jinglin Liu et al. [[pdf]](https://arxiv.org/pdf/2105.02446)
 
 - **MLP Singer: Towards Rapid Parallel Korean Singing Voice Synthesis**(2021), Jaesung Tae et al. [[pdf]](https://arxiv.org/pdf/2106.07886.pdf)
 
