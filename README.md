@@ -492,6 +492,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **IQDUBBING: Prosody modeling based on discrete self-supervised speech representation for expressive voice conversion**(2022), Wendong Gan et al. [[pdf]](https://arxiv.org/pdf/2201.00269)
 
+- **PortaSpeech: Portable and High-Quality Generative Text-to-Speech**(2021), Yi Ren et al. [[pdf]](https://arxiv.org/pdf/2109.15166.pdf)
+
 
 
 ### Language Modelling
@@ -562,6 +564,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 - **PeriodNet: A non-autoregressive waveform generation model with a structure separating periodic and aperiodic components**(2021), Yukiya Hono et al. [[pdf]](https://arxiv.org/pdf/2102.07786)
 
 - **Sequence-to-Sequence Piano Transcription with Transformers**(2021), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/pdf/2107.09142.pdf)
+
+- **Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis**(2022), Yu Wang et al. [[pdf]](https://arxiv.org/pdf/2201.07429)
 
 
 ### Interesting papers
