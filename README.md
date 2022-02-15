@@ -561,6 +561,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **N-Singer: A Non-Autoregressive Korean Singing Voice Synthesis System for Pronunciation Enhancement**(2021), Gyeong-Hoon Lee et al. [[pdf]](https://arxiv.org/pdf/2106.15205.pdf)
 
+- **Non-Autoregressive TTS with Explicit Duration Modelling for Low-Resource Highly Expressive Speech**(2021),  Raahil Shah et al. [[pdf]](https://arxiv.org/pdf/2106.12896.pdf)
+
 - **PeriodNet: A non-autoregressive waveform generation model with a structure separating periodic and aperiodic components**(2021), Yukiya Hono et al. [[pdf]](https://arxiv.org/pdf/2102.07786)
 
 - **Sequence-to-Sequence Piano Transcription with Transformers**(2021), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/pdf/2107.09142.pdf)
