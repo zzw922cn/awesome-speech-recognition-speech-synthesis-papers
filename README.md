@@ -479,6 +479,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Parallel Tacotron 2: A Non-Autoregressive Neural TTS Model with Differentiable Duration Modeling**(2021), Isaac Elias et al. [[pdf]](https://arxiv.org/pdf/2103.14574)
 
+- **PortaSpeech: Portable and High-Quality Generative Text-to-Speech**(2021), Yi Ren et al. [[pdf]](https://arxiv.org/pdf/2109.15166.pdf)
+
 - **Transformer-based Acoustic Modeling for Streaming Speech Synthesis**(2021), Chunyang Wu et al. [[pdf]](https://research.fb.com/wp-content/uploads/2021/06/Transformer-based-Acoustic-Modeling-for-Streaming-Speech-Synthesis.pdf)
 
 - **Triple M: A Practical Neural Text-to-speech System With Multi-guidance Attention And Multi-band Multi-time Lpcnet**(2021), Shilun Lin et al. [[pdf]](https://arxiv.org/pdf/2102.00247)
@@ -492,7 +494,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **IQDUBBING: Prosody modeling based on discrete self-supervised speech representation for expressive voice conversion**(2022), Wendong Gan et al. [[pdf]](https://arxiv.org/pdf/2201.00269)
 
-- **PortaSpeech: Portable and High-Quality Generative Text-to-Speech**(2021), Yi Ren et al. [[pdf]](https://arxiv.org/pdf/2109.15166.pdf)
+- **Neural Speech Synthesis on a Shoestring: Improving the Efficiency of LPCNet**(2022), Jean-Marc Valin et al. [[pdf]](https://arxiv.org/pdf/2202.11169.pdf)
+
 
 
 
