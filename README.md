@@ -572,6 +572,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis**(2022), Yu Wang et al. [[pdf]](https://arxiv.org/pdf/2201.07429)
 
+- **WeSinger: Data-augmented Singing Voice Synthesis with Auxiliary Losses**(2022), Zewang Zhang et al. [[pdf]](https://arxiv.org/pdf/2203.10750.pdf)
+
 
 ### Interesting papers
 - **The Reversible Residual Network: Backpropagation Without Storing Activations**(2017), Aidan N. Gomez et al. [[pdf]](https://arxiv.org/pdf/1707.04585)
