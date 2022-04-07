@@ -492,6 +492,10 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone**(2021), Edresson Casanova et al. [[pdf]](https://arxiv.org/pdf/2112.02418)
 
+- **Bunched LPCNet2: Efficient Neural Vocoders Covering Devices from Cloud to Edge**(2022), Sangjun Park et al. [[pdf]](https://arxiv.org/pdf/2203.14416)
+
+- **HiFi++: a Unified Framework for Neural Vocoding, Bandwidth Extension and Speech Enhancement**(2022), Pavel Andreev et al. [[pdf]](https://arxiv.org/pdf/2203.13086)
+
 - **IQDUBBING: Prosody modeling based on discrete self-supervised speech representation for expressive voice conversion**(2022), Wendong Gan et al. [[pdf]](https://arxiv.org/pdf/2201.00269)
 
 - **Neural Speech Synthesis on a Shoestring: Improving the Efficiency of LPCNet**(2022), Jean-Marc Valin et al. [[pdf]](https://arxiv.org/pdf/2202.11169.pdf)
