@@ -382,6 +382,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Parallel Neural Text-to-Speech**(2019), Kainan Peng et al. [[pdf]](https://arxiv.org/pdf/1905.08459.pdf)
 
+- **Pre-trained Text Representations for Improving Front-End Text Processing in Mandarin Text-to-Speech Synthesis**(2019), Bing Yang et al.[[pdf]](https://www.isca-speech.org/archive_v0/Interspeech_2019/pdfs/1418.pdf)
+
 - **Parallel WaveGAN: A fast waveform generation model based on generative adversarial networks with multi-resolution spectrogram**(2019), Ryuichi Yamamoto et al. [[pdf]](https://arxiv.org/pdf/1910.11480)
 <sub><sup>it comes out the same time as MelGAN, while no one refers to each other...Besides, I think the gaussian noise is unnecessary, since melspec has very strong information.</sup></sub>
 
