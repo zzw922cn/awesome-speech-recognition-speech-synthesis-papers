@@ -518,6 +518,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Simple and Effective Unsupervised Speech Synthesis**(2022), Alexander H. Liu et al. [[pdf]](https://arxiv.org/pdf/2204.02524.pdf)
 
+- **Zero-Shot Cross-Lingual Transfer Using Multi-Stream Encoder and Efficient Speaker Representation**(2022), Yibin Zheng et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747481)
+
 
 
 
