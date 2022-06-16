@@ -233,6 +233,12 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Why does CTC result in peaky behavior?**(2021), Albert Zeyer et al. [[pdf]](https://arxiv.org/pdf/2105.14849.pdf)
 
+- **E2E Segmenter: Joint Segmenting and Decoding for Long-Form ASR**(2022), W. Ronny Huang et al. [[pdf]](https://arxiv.org/pdf/2204.10749.pdf)
+
+- **Music Source Separation with Generative Flow**(2022), Ge Zhu et al. [[pdf]](https://arxiv.org/pdf/2204.09079.pdf)
+
+- **Improving Self-Supervised Speech Representations by Disentangling Speakers**(2022), Kaizhi Qian et al. [[pdf]](https://arxiv.org/pdf/2204.09224.pdf)
+
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
@@ -275,6 +281,7 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **BUT System Description to VoxCeleb Speaker Recognition Challenge 2019**(2019), Hossein Zeinali et al. [[pdf]](https://arxiv.org/pdf/1910.12592)
 
+- **The ID R&D System Description for Short-duration Speaker Verification Challenge 2021**(2021), Alenin et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2021/alenin21_interspeech.pdf)
 
 ### Voice Conversion
 - **Voice conversion using deep Bidirectional Long Short-Term Memory based Recurrent Neural Networks**(2015), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7178896)
@@ -467,6 +474,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **ItoˆTTS and ItoˆWave: Linear Stochastic Differential Equation Is All You Need For Audio Generation**(2021), Shoule Wu et al. [[pdf]](https://arxiv.org/pdf/2105.07583.pdf)
 
+- **JETS: Jointly Training FastSpeech2 and HiFi-GAN for End to End Text to Speech**(2021), Dan Lim et al. [[pdf]](https://arxiv.org/pdf/2203.16852)
+
 - **meta-voice: fast few-shot style transfer for expressive voice cloning using meta learning**(2021), Songxiang Liu et al. [[pdf]](https://arxiv.org/pdf/2111.07218.pdf)
 
 - **Neural HMMs are all you need (for high-quality attention-free TTS)**(2021), Shivam Mehta et al. [[pdf]](https://arxiv.org/pdf/2108.13320)
@@ -496,11 +505,21 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Bunched LPCNet2: Efficient Neural Vocoders Covering Devices from Cloud to Edge**(2022), Sangjun Park et al. [[pdf]](https://arxiv.org/pdf/2203.14416)
 
+- **Cross-Speaker Emotion Transfer for Low-Resource Text-to-Speech Using Non-Parallel Voice Conversion with Pitch-Shift Data Augmentation**(2022), Ryo Terashima et al. [[pdf]](https://arxiv.org/pdf/2204.10020.pdf)
+
+- **FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis**(2022), Rongjie Huang et al. [[pdf]](https://arxiv.org/pdf/2204.09934.pdf)
+
 - **HiFi++: a Unified Framework for Neural Vocoding, Bandwidth Extension and Speech Enhancement**(2022), Pavel Andreev et al. [[pdf]](https://arxiv.org/pdf/2203.13086)
 
 - **IQDUBBING: Prosody modeling based on discrete self-supervised speech representation for expressive voice conversion**(2022), Wendong Gan et al. [[pdf]](https://arxiv.org/pdf/2201.00269)
 
 - **Neural Speech Synthesis on a Shoestring: Improving the Efficiency of LPCNet**(2022), Jean-Marc Valin et al. [[pdf]](https://arxiv.org/pdf/2202.11169.pdf)
+
+- **STFT-Domain Neural Speech Enhancement with Very Low Algorithmic Latency**(2022), Zhong-Qiu Wang et al. [[pdf]](https://arxiv.org/pdf/2204.09911.pdf)
+
+- **Simple and Effective Unsupervised Speech Synthesis**(2022), Alexander H. Liu et al. [[pdf]](https://arxiv.org/pdf/2204.02524.pdf)
+
+- **Zero-Shot Cross-Lingual Transfer Using Multi-Stream Encoder and Efficient Speaker Representation**(2022), Yibin Zheng et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747481)
 
 
 
