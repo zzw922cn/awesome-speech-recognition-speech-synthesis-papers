@@ -599,7 +599,7 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **WeSinger: Data-augmented Singing Voice Synthesis with Auxiliary Losses**(2022), Zewang Zhang et al. [[pdf]](https://arxiv.org/pdf/2203.10750.pdf)
 
-- **WeSinger 2: WeSinger 2: Fully Parallel Singing Voice Synthesis via Multi-Singer Conditional Adversarial Training**(2022), Zewang Zhang et al. [[pdf]](https://arxiv.org/pdf/2207.01886)
+- **WeSinger 2: Fully Parallel Singing Voice Synthesis via Multi-Singer Conditional Adversarial Training**(2022), Zewang Zhang et al. [[pdf]](https://arxiv.org/pdf/2207.01886)
 
 
 ### Interesting papers
