@@ -281,6 +281,7 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **BUT System Description to VoxCeleb Speaker Recognition Challenge 2019**(2019), Hossein Zeinali et al. [[pdf]](https://arxiv.org/pdf/1910.12592)
 
+- **The ID R&D System Description for Short-duration Speaker Verification Challenge 2021**(2021), Alenin et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2021/alenin21_interspeech.pdf)
 
 ### Voice Conversion
 - **Voice conversion using deep Bidirectional Long Short-Term Memory based Recurrent Neural Networks**(2015), Lifa Sun et al. [[pdf]](https://ieeexplore.ieee.org/document/7178896)
@@ -517,6 +518,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 - **STFT-Domain Neural Speech Enhancement with Very Low Algorithmic Latency**(2022), Zhong-Qiu Wang et al. [[pdf]](https://arxiv.org/pdf/2204.09911.pdf)
 
 - **Simple and Effective Unsupervised Speech Synthesis**(2022), Alexander H. Liu et al. [[pdf]](https://arxiv.org/pdf/2204.02524.pdf)
+
+- **Zero-Shot Cross-Lingual Transfer Using Multi-Stream Encoder and Efficient Speaker Representation**(2022), Yibin Zheng et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747481)
 
 
 
