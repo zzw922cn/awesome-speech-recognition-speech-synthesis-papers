@@ -503,6 +503,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone**(2021), Edresson Casanova et al. [[pdf]](https://arxiv.org/pdf/2112.02418)
 
+- **Avocodo: Generative Adversarial Network for Artifact-free Vocoder**(2022), Taejun Bak et al. [[pdf]](https://arxiv.org/pdf/2206.13404.pdf)
+
 - **Bunched LPCNet2: Efficient Neural Vocoders Covering Devices from Cloud to Edge**(2022), Sangjun Park et al. [[pdf]](https://arxiv.org/pdf/2203.14416)
 
 - **Cross-Speaker Emotion Transfer for Low-Resource Text-to-Speech Using Non-Parallel Voice Conversion with Pitch-Shift Data Augmentation**(2022), Ryo Terashima et al. [[pdf]](https://arxiv.org/pdf/2204.10020.pdf)
@@ -594,6 +596,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 - **PeriodNet: A non-autoregressive waveform generation model with a structure separating periodic and aperiodic components**(2021), Yukiya Hono et al. [[pdf]](https://arxiv.org/pdf/2102.07786)
 
 - **Sequence-to-Sequence Piano Transcription with Transformers**(2021), Curtis Hawthorne et al. [[pdf]](https://arxiv.org/pdf/2107.09142.pdf)
+
+- **M4Singer: a Multi-Style, Multi-Singer and Musical Score Provided Mandarin Singing Corpus**(2022), Lichao Zhang et al. [[pdf]](https://openreview.net/pdf?id=qiDmAaG6mP)
 
 - **Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis**(2022), Yu Wang et al. [[pdf]](https://arxiv.org/pdf/2201.07429)
 
