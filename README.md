@@ -468,6 +468,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Grad-TTS: A Diffusion Probabilistic Model for Text-to-Speech**(2021), Vadim Popov et al. [[pdf]](https://arxiv.org/pdf/2105.06337.pdf)
 
+- **Glow-WaveGAN: Learning Speech Representations from GAN-based Variational Auto-Encoder For High Fidelity Flow-based Speech Synthesis**(2021), Jian Cong et al. [[pdf]](https://arxiv.org/pdf/2106.10831.pdf)
+
 - **High-fidelity and low-latency universal neural vocoder based on multiband WaveRNN with data-driven linear prediction for discrete waveform modeling**(2021), Patrick Lumban Tobing et al. [[pdf]](https://arxiv.org/pdf/2105.09856.pdf)
 
 - **Hierarchical Prosody Modeling for Non-Autoregressive Speech Synthesis**(2021), Chung-Ming Chien et al. [[pdf]](https://arxiv.org/pdf/2011.06465.pdf)
@@ -510,6 +512,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 - **Cross-Speaker Emotion Transfer for Low-Resource Text-to-Speech Using Non-Parallel Voice Conversion with Pitch-Shift Data Augmentation**(2022), Ryo Terashima et al. [[pdf]](https://arxiv.org/pdf/2204.10020.pdf)
 
 - **FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis**(2022), Rongjie Huang et al. [[pdf]](https://arxiv.org/pdf/2204.09934.pdf)
+
+- **Glow-WaveGAN 2: High-quality Zero-shot Text-to-speech Synthesis and Any-to-any Voice Conversion**(2022), Yi Lei et al. [[pdf]](https://arxiv.org/pdf/2207.01832.pdf)
 
 - **HiFi++: a Unified Framework for Neural Vocoding, Bandwidth Extension and Speech Enhancement**(2022), Pavel Andreev et al. [[pdf]](https://arxiv.org/pdf/2203.13086)
 
