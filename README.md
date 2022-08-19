@@ -229,6 +229,10 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Multi-Encoder Learning and Stream Fusion for Transformer-Based End-to-End Automatic Speech Recognition**(2021), Timo Lohrenz et al. [[pdf]](https://arxiv.org/pdf/2104.00120.pdf)
 
+- **SpecAugment++: A Hidden Space Data Augmentation Method for Acoustic Scene Classification**(2021), Helin Wang et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2021/wang21d_interspeech.pdf)
+
+- **SpecMix: A Mixed Sample Data Augmentation method for Training with Time-Frequency Domain Features**(2021), Gwantae Kim et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2021/kim21c_interspeech.pdf)
+
 - **The History of Speech Recognition to the Year 2030**(2021), Awni Hannun et al. [[pdf]](https://arxiv.org/pdf/2108.00084.pdf)
 
 - **Voice Conversion Can Improve ASR in Very Low-Resource Settings**(2021), Matthew Baas et al. [[pdf]](https://arxiv.org/pdf/2111.02674) 
