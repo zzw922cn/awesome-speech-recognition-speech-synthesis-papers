@@ -1,5 +1,7 @@
 # awesome-speech-recognition-speech-synthesis-papers
-I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group. I worked on automatic speech recognition, expressive speech synthesis, few-shot speech synthesis, voice conversion, singing voice synthesis and few-shot singing voice synthesis. I collect some papers which I think very interesting in speech field, I hope this project will help you. If you have any questions, welcome to send email to me: zzw922cn@gmail.com Thank you for your stars!
+I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group. I worked on automatic speech recognition, expressive speech synthesis, few-shot speech synthesis, voice conversion, singing voice synthesis and few-shot singing voice synthesis. I collect some papers which I think very interesting in speech field, I hope this project will help you. Thank you for your stars!
+
+[[My Google Scholar Page]](https://scholar.google.com/citations?user=a1mBo7wAAAAJ&hl=zh-CN)
 
 ## Paper List
 - [Automatic Speech Recognition(ASR)](#Automatic-Speech-Recognition)
