@@ -527,13 +527,17 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Neural Speech Synthesis on a Shoestring: Improving the Efficiency of LPCNet**(2022), Jean-Marc Valin et al. [[pdf]](https://arxiv.org/pdf/2202.11169.pdf)
 
-- **TriniTTS: Pitch-controllable End-to-end TTS without External Aligner**(2022), Yoon-Cheol Ju et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/ju22_interspeech.pdf)
+- **PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior**(2022), Sang-gil Lee et al. [[pdf]](https://arxiv.org/pdf/2106.06406.pdf)
 
 - **SANE-TTS: Stable And Natural End-to-End Multilingual Text-to-Speech**(2022), Hyunjae Cho et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/cho22_interspeech.pdf)
 
 - **STFT-Domain Neural Speech Enhancement with Very Low Algorithmic Latency**(2022), Zhong-Qiu Wang et al. [[pdf]](https://arxiv.org/pdf/2204.09911.pdf)
 
 - **Simple and Effective Unsupervised Speech Synthesis**(2022), Alexander H. Liu et al. [[pdf]](https://arxiv.org/pdf/2204.02524.pdf)
+
+- **SpecGrad: Diffusion Probabilistic Model based Neural Vocoder with Adaptive Noise Spectral Shaping**(2022), Yuma Koizumi et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/koizumi22_interspeech.pdf)
+
+- **TriniTTS: Pitch-controllable End-to-end TTS without External Aligner**(2022), Yoon-Cheol Ju et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/ju22_interspeech.pdf)
 
 - **Zero-Shot Cross-Lingual Transfer Using Multi-Stream Encoder and Efficient Speaker Representation**(2022), Yibin Zheng et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747481)
 
