@@ -519,6 +519,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis**(2022), Rongjie Huang et al. [[pdf]](https://arxiv.org/pdf/2204.09934.pdf)
 
+- **Fast Grad-TTS: Towards Efficient Diffusion-Based Speech Generation on CPU**(2022), Ivan Vovk et al. [[[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/vovk22_interspeech.pdf)
+
 - **Glow-WaveGAN 2: High-quality Zero-shot Text-to-speech Synthesis and Any-to-any Voice Conversion**(2022), Yi Lei et al. [[pdf]](https://arxiv.org/pdf/2207.01832.pdf)
 
 - **HiFi++: a Unified Framework for Neural Vocoding, Bandwidth Extension and Speech Enhancement**(2022), Pavel Andreev et al. [[pdf]](https://arxiv.org/pdf/2203.13086)
