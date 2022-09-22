@@ -482,7 +482,7 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **ItoˆTTS and ItoˆWave: Linear Stochastic Differential Equation Is All You Need For Audio Generation**(2021), Shoule Wu et al. [[pdf]](https://arxiv.org/pdf/2105.07583.pdf)
 
-- **JETS: Jointly Training FastSpeech2 and HiFi-GAN for End to End Text to Speech**(2021), Dan Lim et al. [[pdf]](https://arxiv.org/pdf/2203.16852)
+- **JETS: Jointly Training FastSpeech2 and HiFi-GAN for End to End Text to Speech**(2021), Dan Lim et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/lim22_interspeech.pdf)
 
 - **meta-voice: fast few-shot style transfer for expressive voice cloning using meta learning**(2021), Songxiang Liu et al. [[pdf]](https://arxiv.org/pdf/2111.07218.pdf)
 
@@ -526,6 +526,10 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 - **IQDUBBING: Prosody modeling based on discrete self-supervised speech representation for expressive voice conversion**(2022), Wendong Gan et al. [[pdf]](https://arxiv.org/pdf/2201.00269)
 
 - **Neural Speech Synthesis on a Shoestring: Improving the Efficiency of LPCNet**(2022), Jean-Marc Valin et al. [[pdf]](https://arxiv.org/pdf/2202.11169.pdf)
+
+- **TriniTTS: Pitch-controllable End-to-end TTS without External Aligner**(2022), Yoon-Cheol Ju et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/ju22_interspeech.pdf)
+
+- **SANE-TTS: Stable And Natural End-to-End Multilingual Text-to-Speech**(2022), Hyunjae Cho et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/cho22_interspeech.pdf)
 
 - **STFT-Domain Neural Speech Enhancement with Very Low Algorithmic Latency**(2022), Zhong-Qiu Wang et al. [[pdf]](https://arxiv.org/pdf/2204.09911.pdf)
 
@@ -611,7 +615,7 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Opencpop: A High-Quality Open Source Chinese Popular Song Corpus for Singing Voice Synthesis**(2022), Yu Wang et al. [[pdf]](https://arxiv.org/pdf/2201.07429)
 
-- **WeSinger: Data-augmented Singing Voice Synthesis with Auxiliary Losses**(2022), Zewang Zhang et al. [[pdf]](https://arxiv.org/pdf/2203.10750.pdf)
+- **WeSinger: Data-augmented Singing Voice Synthesis with Auxiliary Losses**(2022), Zewang Zhang et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/zhang22e_interspeech.pdf)
 
 - **WeSinger 2: Fully Parallel Singing Voice Synthesis via Multi-Singer Conditional Adversarial Training**(2022), Zewang Zhang et al. [[pdf]](https://arxiv.org/pdf/2207.01886)
 
