@@ -245,6 +245,8 @@ I'm a research engineer doing speech synthesis at Tencent Wechat iHearing Group.
 
 - **Improving Self-Supervised Speech Representations by Disentangling Speakers**(2022), Kaizhi Qian et al. [[pdf]](https://arxiv.org/pdf/2204.09224.pdf)
 
+- **Robust Speech Recognition via Large-Scale Weak Supervision**(2022), Alec Radford et al. [[pdf]](https://cdn.openai.com/papers/whisper.pdf)
+
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
