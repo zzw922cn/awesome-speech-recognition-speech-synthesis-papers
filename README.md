@@ -513,6 +513,8 @@
 
 - **Avocodo: Generative Adversarial Network for Artifact-free Vocoder**(2022), Taejun Bak et al. [[pdf]](https://arxiv.org/pdf/2206.13404.pdf)
 
+- **Adversarial Speaker-Consistency Learning Using Untranscribed Speech Data for Zero-Shot Multi-Speaker Text-to-Speech**(2022), Byoung Jin Choi et al. [[pdf]](https://arxiv.org/pdf/2210.05979.pdf)
+
 - **Bunched LPCNet2: Efficient Neural Vocoders Covering Devices from Cloud to Edge**(2022), Sangjun Park et al. [[pdf]](https://arxiv.org/pdf/2203.14416)
 
 - **Cross-Speaker Emotion Transfer for Low-Resource Text-to-Speech Using Non-Parallel Voice Conversion with Pitch-Shift Data Augmentation**(2022), Ryo Terashima et al. [[pdf]](https://arxiv.org/pdf/2204.10020.pdf)
