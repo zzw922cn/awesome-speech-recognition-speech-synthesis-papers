@@ -531,6 +531,8 @@
 
 - **Neural Speech Synthesis on a Shoestring: Improving the Efficiency of LPCNet**(2022), Jean-Marc Valin et al. [[pdf]](https://arxiv.org/pdf/2202.11169.pdf)
 
+- **NANSY++: Unified Voice Synthesis with Neural Analysis and Synthesis**(2022), Hyeong-Seok Choi et al. [[pdf]](https://arxiv.org/pdf/2211.09407)
+
 - **PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior**(2022), Sang-gil Lee et al. [[pdf]](https://arxiv.org/pdf/2106.06406.pdf)
 
 - **SANE-TTS: Stable And Natural End-to-End Multilingual Text-to-Speech**(2022), Hyunjae Cho et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/cho22_interspeech.pdf)
