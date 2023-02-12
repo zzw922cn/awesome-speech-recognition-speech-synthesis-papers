@@ -1,6 +1,9 @@
 # awesome-speech-recognition-speech-synthesis-papers
 [[WeSinger 2 Demos]](https://zzw922cn.github.io/wesinger2/)
 
+更多歌唱合成效果，请扫码关注微信视频号：山水之间D
+![微信视频号](channel_id.jpeg)
+
 ## Paper List
 - [Automatic Speech Recognition(ASR)](#Automatic-Speech-Recognition)
 - [Speaker Verification](#Speaker-Verification)
