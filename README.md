@@ -1,8 +1,9 @@
 # awesome-speech-recognition-speech-synthesis-papers
 [[WeSinger 2 Demos]](https://zzw922cn.github.io/wesinger2/)
 
-更多歌唱合成效果，请扫码关注微信视频号：山水之间D
-![微信视频号](https://github.com/zzw922cn/awesome-speech-recognition-speech-synthesis-papers/blob/master/channel_id.jpg)
+[![](https://markdown-videos.deta.dev/youtube/nbfazd3PS9E)](https://youtu.be/nbfazd3PS9E)
+
+更多歌唱合成效果，请扫码关注微信视频号(More SVS demos, please search my WeChat Channel ID)：山水之间D
 
 ## Paper List
 - [Text-to-Audio](#Text-to-Audio)
