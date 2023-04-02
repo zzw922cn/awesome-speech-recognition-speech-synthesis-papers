@@ -522,6 +522,8 @@
 
 - **Towards Multi-Scale Style Control for Expressive Speech Synthesis**(2021), Xiang Li et al. [[pdf]](https://arxiv.org/pdf/2104.03521)
 
+- **Unified Source-Filter GAN: Unified Source-filter Network Based On Factorization of Quasi-Periodic Parallel WaveGAN**(2021), Reo Yoneyama et al. [[pdf]](https://arxiv.org/pdf/2104.04668)
+
 - **YourTTS: Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone**(2021), Edresson Casanova et al. [[pdf]](https://arxiv.org/pdf/2112.02418)
 
 - **Avocodo: Generative Adversarial Network for Artifact-free Vocoder**(2022), Taejun Bak et al. [[pdf]](https://arxiv.org/pdf/2206.13404.pdf)
@@ -542,11 +544,17 @@
 
 - **IQDUBBING: Prosody modeling based on discrete self-supervised speech representation for expressive voice conversion**(2022), Wendong Gan et al. [[pdf]](https://arxiv.org/pdf/2201.00269)
 
+- **iSTFTNet: Fast and Lightweight Mel-Spectrogram Vocoder Incorporating Inverse Short-Time Fourier Transform**(2022), Takuhiro Kaneko et al. [[pdf]](https://arxiv.org/pdf/2203.02395)
+
+- **Lightweight and High-Fidelity End-to-End Text-to-Speech with Multi-Band Generation and Inverse Short-Time Fourier Transform**(2022), Masaya Kawamura et al. [[pdf]](https://arxiv.org/pdf/2210.15975)
+
 - **Neural Speech Synthesis on a Shoestring: Improving the Efficiency of LPCNet**(2022), Jean-Marc Valin et al. [[pdf]](https://arxiv.org/pdf/2202.11169.pdf)
 
 - **NANSY++: Unified Voice Synthesis with Neural Analysis and Synthesis**(2022), Hyeong-Seok Choi et al. [[pdf]](https://arxiv.org/pdf/2211.09407)
 
 - **PriorGrad: Improving Conditional Denoising Diffusion Models with Data-Dependent Adaptive Prior**(2022), Sang-gil Lee et al. [[pdf]](https://arxiv.org/pdf/2106.06406.pdf)
+
+- **PromptTTS: Controllable Text-to-Speech with Text Descriptions**(2022), Zhifang Guo et al. [[pdf]](https://arxiv.org/pdf/2211.12171)
 
 - **SANE-TTS: Stable And Natural End-to-End Multilingual Text-to-Speech**(2022), Hyunjae Cho et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/cho22_interspeech.pdf)
 
@@ -556,9 +564,16 @@
 
 - **SpecGrad: Diffusion Probabilistic Model based Neural Vocoder with Adaptive Noise Spectral Shaping**(2022), Yuma Koizumi et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/koizumi22_interspeech.pdf)
 
+- **Source-Filter HiFi-GAN: Fast and Pitch Controllable High-Fidelity Neural Vocoder**(2022), Reo Yoneyama et al. [[pdf]](https://arxiv.org/pdf/2210.15533)
+
 - **TriniTTS: Pitch-controllable End-to-end TTS without External Aligner**(2022), Yoon-Cheol Ju et al. [[pdf]](https://www.isca-speech.org/archive/pdfs/interspeech_2022/ju22_interspeech.pdf)
 
 - **Zero-Shot Cross-Lingual Transfer Using Multi-Stream Encoder and Efficient Speaker Representation**(2022), Yibin Zheng et al. [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747481)
+
+- **InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt**(2023), Dongchao Yang et al. [[pdf]](https://arxiv.org/abs/2301.13662)
+
+
+
 
 
 
