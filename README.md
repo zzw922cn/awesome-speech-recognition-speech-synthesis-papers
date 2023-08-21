@@ -24,6 +24,8 @@
 
 - **Noise2Music: Text-conditioned Music Generation with Diffusion Models**(2023), Qingqing Huang et al. [[pdf]](https://arxiv.org/pdf/2302.03917)
 
+- **Voicebox: The first generative AI model for speech to generalize across tasks with state-of-the-art performance**(2023), Meta [[pdf]] (https://research.facebook.com/file/649409006862002/paper_fixed.pdf)
+
 
 ### Automatic Speech Recognition
 - **An Introduction to the Application of the Theory of Probabilistic Functions of a Markov Process to Automatic Speech Recognition**(1982), S. E. LEVINSON et al. [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6768244)
