@@ -572,8 +572,11 @@
 
 - **InstructTTS: Modelling Expressive TTS in Discrete Latent Space with Natural Language Style Prompt**(2023), Dongchao Yang et al. [[pdf]](https://arxiv.org/abs/2301.13662)
 
+- **Matcha-TTS: A fast TTS architecture with conditional flow matching**(2023), Shivam Mehta et al. [[pdf]](https://arxiv.org/pdf/2309.03199.pdf)
 
+- **Mega-TTS: Zero-Shot Text-to-Speech at Scale with Intrinsic Inductive Bias**(2023), Ziyue Jiang et al. [[pdf]](https://arxiv.org/pdf/2306.03509.pdf)
 
+- **Mega-TTS 2: Zero-Shot Text-to-Speech with Arbitrary Length Speech Prompts**(2023), Ziyue Jiang et al. [[pdf]](https://arxiv.org/pdf/2307.07218.pdf)
 
 
 
