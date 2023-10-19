@@ -258,6 +258,8 @@
 
 - **Robust Speech Recognition via Large-Scale Weak Supervision**(2022), Alec Radford et al. [[pdf]](https://cdn.openai.com/papers/whisper.pdf)
 
+- **On decoder-only architecture for speech-to-text and large language model integration**(2023), Jian Wu et al. [[pdf]](https://arxiv.org/pdf/2307.03917.pdf)
+
 
 ### Speaker Verification
 - **Speaker Verification Using Adapted Gaussian Mixture Models**(2000), Douglas A.Reynolds et al. [[pdf]](http://www.sciencedirect.com/science/article/pii/S1051200499903615#)
