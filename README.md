@@ -679,3 +679,12 @@
 - **Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks**(2019), Guanzhong Tian et al. [[pdf]](https://arxiv.org/pdf/1905.11142)
 
 - **Attention is Not Only a Weight: Analyzing Transformers with Vector Norms**(2020), Goro Kobayashi et al. [[pdf]](https://arxiv.org/pdf/2004.10102)
+
+- **Analysis of n-best output hypotheses for fast speech in large vocabulary continuous speech recognition**(2003).[[pdf]](https://www.researchgate.net/publication/221485425_Analysis_of_n-best_output_hypotheses_for_fast_speech_in_large_vocabulary_continuous_speech_recognition)
+
+- **The Application of Hidden Markov  Models in Speech Recognition**(2007). [[pdf]](https://mi.eng.cam.ac.uk/~mjfg/mjfg_NOW.pdf)
+
+- **Speech Recognition by Simply Fine-tuning BERT**(2021). [[pdf]](https://arxiv.org/abs/2102.00291)
+
+- **END-TO-END SPEECH RECOGNITION FROM FEDERATED ACOUSTIC MODELS**(2021). [[pdf]](https://arxiv.org/abs/2104.14297)
+
