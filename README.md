@@ -1,6 +1,7 @@
 # awesome-speech-recognition-speech-synthesis-papers
 
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for speech processing workflow orchestration, automated voice management, and multi-agent coordination. MIT licensed.
 ## Paper List
 - [Text-to-Audio](#Text-to-Audio)
 - [Automatic Speech Recognition(ASR)](#Automatic-Speech-Recognition)
