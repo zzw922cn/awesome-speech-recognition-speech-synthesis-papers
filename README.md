@@ -10,6 +10,7 @@
 - [Language Modelling](#Language-Modelling)
 - [Confidence Estimates](#Confidence-Estimates)
 - [Music Modelling](#Music-Modelling)
+- [Books and practitioner guides](#Books-and-practitioner-guides)
 - [Interesting papers](#Interesting-papers)
 
 
@@ -662,6 +663,9 @@
 
 - **WeSinger 2: Fully Parallel Singing Voice Synthesis via Multi-Singer Conditional Adversarial Training**(2022), Zewang Zhang et al. [[pdf]](https://arxiv.org/pdf/2207.01886)
 
+
+### Books and practitioner guides
+- **Building Speech AI: Speech Representation, Understanding & Synthesis. A Practitioner's Guide**(2026), Deepak Babu Piskala. [[website]](https://prdeepakbabu.github.io/building-speech-ai) [[code]](https://github.com/prdeepakbabu/building-speech-ai)
 
 ### Interesting papers
 - **The Reversible Residual Network: Backpropagation Without Storing Activations**(2017), Aidan N. Gomez et al. [[pdf]](https://arxiv.org/pdf/1707.04585)
