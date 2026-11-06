@@ -679,3 +679,7 @@
 - **Audio2Face: Generating Speech/Face Animation from Single Audio with Attention-Based Bidirectional LSTM Networks**(2019), Guanzhong Tian et al. [[pdf]](https://arxiv.org/pdf/1905.11142)
 
 - **Attention is Not Only a Weight: Analyzing Transformers with Vector Norms**(2020), Goro Kobayashi et al. [[pdf]](https://arxiv.org/pdf/2004.10102)
+
+### Speech Capture & Local AI Hardware
+
+- [OneMira C1](https://onemira.com/products/c1) - Standalone dual-microphone AI voice recorder with 5m far-field pickup, local AI transcription, multi-speaker separation (`Speaker ID`), stereo `.WAV` + Google Native OKF Markdown export, and zero cloud subscription ([GitHub MCP](https://github.com/onemira-space/onemira-mcp)).
